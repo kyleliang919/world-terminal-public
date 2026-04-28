@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:09:01+00:00",
+  "generated_at": "2026-04-28T19:05:43+00:00",
   "source_count": 12,
   "cards": [
     {
@@ -119,26 +119,26 @@
     },
     {
       "id": "kalshi:KXCABOUT-26APR20",
-      "cache_key": "38042bc4c80a5b3088193782",
+      "cache_key": "0dd354b037f3141931e794ca",
       "title": "Who will leave Trump's Cabinet next?",
       "venue": "kalshi",
       "market_url": "https://kalshi.com/markets/kxcabout/next-cabinet-memeber-out/kxcabout-26apr20",
       "category": "Politics",
-      "generated_at": "2026-04-27T02:05:38.234780+00:00",
+      "generated_at": "2026-04-28T17:34:06.478440+00:00",
       "action": "SELL_YES",
       "choice": "Howard Lutnick",
-      "fair_probability": 0.1,
-      "market_probability": 0.215,
-      "edge_bps": 1150.0,
+      "fair_probability": 0.09,
+      "market_probability": 0.185,
+      "edge_bps": 950.0,
       "confidence": "medium",
-      "headline": "Tulsi Gabbard Is the Most Likely Next Cabinet Exit — and the Market Hasn't Fully Priced It In",
-      "summary": "Gabbard's mounting friction with the White House — including reports of sidelining, FISA policy clashes, and eroding trust — makes her the clear frontrunner to be the next Cabinet departure, yet the market still underprices her at 53% versus a fair value near 60%.",
+      "headline": "Tulsi Gabbard Most Likely Next Cabinet Departure — Lutnick Contract Looks Overpriced",
+      "summary": "Tulsi Gabbard is the clear frontrunner to be the next Trump Cabinet member out, trading at 55% but worth closer to 60%. Meanwhile, Howard Lutnick's 18.5% contract appears significantly overpriced given his central role in tariff policy and absence of departure signals.",
       "why": [
-        "Multiple credible reports detail Gabbard being sidelined and contradicted on key intelligence policy, signaling a deteriorating relationship with the president",
-        "The market's combined probabilities add up to ~155%, systematically overpricing long-shot candidates like Howard Lutnick (21.5%) who has no fresh departure catalysts",
-        "Three women have already departed Trump's Cabinet, and Gabbard fits the pattern of ideological misalignment driving exits"
+        "Gabbard has been publicly sidelined — recent reports highlight her marginalization and friction over FISA 702 surveillance policy",
+        "The market's total probabilities sum to ~155%, meaning long-shot contracts are systematically overpriced by construction",
+        "Lutnick remains operationally critical as Trump's point man on tariffs with no credible exit rumors"
       ],
-      "watch_item": "Reports that FBI Director Kash Patel may depart first — while he isn't listed in this market, his exit could reshuffle White House attention and delay Gabbard's timeline"
+      "watch_item": "Whether Gabbard's sidelining leads to a formal resignation or if she quietly stays on indefinitely, which would erode the time advantage priced into her contract"
     },
     {
       "id": "kalshi:KXPRESNOMD-28",
