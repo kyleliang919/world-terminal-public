@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T01:05:44+00:00",
-  "source_count": 12,
+  "generated_at": "2026-04-29T07:05:59+00:00",
+  "source_count": 14,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -95,6 +95,29 @@
       "watch_item": "A major, unprecedented crisis — such as a nuclear incident or massive scandal — that fractures the Republican Senate coalition beyond anything seen in modern politics"
     },
     {
+      "id": "kalshi:KXMUSKOAI-26",
+      "cache_key": "311e0f6315e4026082a5c031",
+      "title": "Will Elon win his case against OpenAI?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxmuskoai/elon-win-vs-open-ai/kxmuskoai-26",
+      "category": "Politics",
+      "generated_at": "2026-04-29T06:40:30.489249+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.38,
+      "market_probability": 0.575,
+      "edge_bps": 1950.0,
+      "confidence": "medium",
+      "headline": "Musk v. OpenAI: Market Overprices Musk's Chances After Dropping 24 of 26 Claims",
+      "summary": "With Musk narrowing his case to just two claims — breach of charitable trust and unjust enrichment — and facing a significant donor-standing legal hurdle under California law, the market's ~58% implied probability of a Musk win appears inflated against a fair value estimate near 38%.",
+      "why": [
+        "California law typically reserves charitable trust enforcement to the Attorney General, not private donors — Musk's $44M was a tax-deductible gift, not an investment",
+        "Dropping 24 of 26 claims on the eve of trial, including all fraud charges, signals significant evidentiary weakness",
+        "Structural asymmetry: hung jury, mistrial, settlement without an explicit Musk victory, or delayed ruling all resolve as a loss for YES bettors"
+      ],
+      "watch_item": "Whether Judge Gonzalez Rogers recognizes a novel donor-standing theory for charitable trust claims — this single legal question could flip the entire case"
+    },
+    {
       "id": "poly:0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
       "cache_key": "fb157541e079cdf3870e22ee",
       "title": "US x Iran permanent peace deal by April 22, 2026?",
@@ -185,6 +208,29 @@
         "SpaceX's far higher flight cadence (12 Starship flights vs. 3 total for Blue Origin) gives it a faster problem-solving loop despite harder orbital refueling requirements"
       ],
       "watch_item": "New Glenn's return-to-flight timeline — a quick fix to the upper-stage issue would significantly strengthen the case for Blue Origin landing first"
+    },
+    {
+      "id": "kalshi:KXOAIANTH-40",
+      "cache_key": "a61c4c94e5578eb52a2996b9",
+      "title": "Will OpenAI or Anthropic IPO first?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxoaianth/open-ai-vs-anthropic/kxoaianth-40",
+      "category": "Financials",
+      "generated_at": "2026-04-29T05:15:16.468852+00:00",
+      "action": "SELL_YES",
+      "choice": "OpenAI",
+      "fair_probability": 0.3,
+      "market_probability": 0.36,
+      "edge_bps": 600.0,
+      "confidence": "low",
+      "headline": "Anthropic Has the IPO Momentum, but Neither Side Offers a Strong Bet",
+      "summary": "Anthropic is actively eyeing an October 2026 IPO with a $1T valuation and clean governance, while OpenAI faces revenue misses and CFO reservations about timing — but a 14-year resolution window makes current signals unreliable enough to warrant staying on the sidelines.",
+      "why": [
+        "Anthropic is reportedly weighing an October 2026 IPO and rejected an $800B pre-IPO round, signaling readiness to go public first",
+        "OpenAI missed revenue and user targets, with analysts saying it likely won't go public this year despite massive capital needs",
+        "Both contracts are close to fair value after accounting for the ~7% market vig, leaving no clear edge on either side"
+      ],
+      "watch_item": "Any announcement that OpenAI has formally filed or accelerated IPO plans due to its $600B spending commitments would dramatically shift the calculus"
     },
     {
       "id": "kalshi:KXAGICO-COMP-26Q4",
