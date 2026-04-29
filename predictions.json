@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T13:06:01+00:00",
+  "generated_at": "2026-04-29T19:31:30+00:00",
   "source_count": 14,
   "cards": [
     {
@@ -72,6 +72,29 @@
       "watch_item": "Any unprecedented symbolic or posthumous gesture by Trump that the market's resolution criteria might count as a 'pardon' — extremely unlikely but worth monitoring"
     },
     {
+      "id": "kalshi:KXMUSKOAI-26",
+      "cache_key": "311e0f6315e4026082a5c031",
+      "title": "Will Elon win his case against OpenAI?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxmuskoai/elon-win-vs-open-ai/kxmuskoai-26",
+      "category": "Politics",
+      "generated_at": "2026-04-29T17:53:04.862392+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.36,
+      "market_probability": 0.57,
+      "edge_bps": 2100.0,
+      "confidence": "medium",
+      "headline": "Musk v. OpenAI: Market Overprices a Legally Uphill Battle",
+      "summary": "With Musk having dropped 24 of 26 claims before trial and facing a major donor-standing hurdle, the market at 57% significantly overestimates his chances of winning — fair probability sits closer to 36%.",
+      "why": [
+        "Donors historically lack legal standing to enforce charitable trusts — that right belongs to the state AG, creating a fundamental barrier with almost no favorable precedent for Musk",
+        "Dropping 24 of 26 claims (including all fraud charges) before trial signals pre-trial weakness, leaving only narrow equitable claims",
+        "Structural asymmetry favors NO: hung jury, mistrial, standing dismissal, or unresolved appeal all count as a Musk loss under market rules"
+      ],
+      "watch_item": "Whether the judge creates novel precedent on donor standing — if she allows Musk's claims to proceed on the merits despite the doctrine, the legal calculus shifts dramatically in his favor."
+    },
+    {
       "id": "kalshi:KXTRUMPREMOVE",
       "cache_key": "d97c3a08221dfaefb4751976",
       "title": "Will Trump be impeached and removed from office?",
@@ -93,29 +116,6 @@
         "Democrats are internally divided on impeachment and may not even control the House until 2027"
       ],
       "watch_item": "A major, unprecedented crisis — such as a nuclear incident or massive scandal — that fractures the Republican Senate coalition beyond anything seen in modern politics"
-    },
-    {
-      "id": "kalshi:KXMUSKOAI-26",
-      "cache_key": "311e0f6315e4026082a5c031",
-      "title": "Will Elon win his case against OpenAI?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxmuskoai/elon-win-vs-open-ai/kxmuskoai-26",
-      "category": "Politics",
-      "generated_at": "2026-04-29T06:40:30.489249+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.38,
-      "market_probability": 0.575,
-      "edge_bps": 1950.0,
-      "confidence": "medium",
-      "headline": "Musk v. OpenAI: Market Overprices Musk's Chances After Dropping 24 of 26 Claims",
-      "summary": "With Musk narrowing his case to just two claims — breach of charitable trust and unjust enrichment — and facing a significant donor-standing legal hurdle under California law, the market's ~58% implied probability of a Musk win appears inflated against a fair value estimate near 38%.",
-      "why": [
-        "California law typically reserves charitable trust enforcement to the Attorney General, not private donors — Musk's $44M was a tax-deductible gift, not an investment",
-        "Dropping 24 of 26 claims on the eve of trial, including all fraud charges, signals significant evidentiary weakness",
-        "Structural asymmetry: hung jury, mistrial, settlement without an explicit Musk victory, or delayed ruling all resolve as a loss for YES bettors"
-      ],
-      "watch_item": "Whether Judge Gonzalez Rogers recognizes a novel donor-standing theory for charitable trust claims — this single legal question could flip the entire case"
     },
     {
       "id": "poly:0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
