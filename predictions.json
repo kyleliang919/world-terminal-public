@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T01:31:32+00:00",
-  "source_count": 14,
+  "generated_at": "2026-04-30T15:58:57+00:00",
+  "source_count": 15,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -116,6 +116,29 @@
         "Democrats are internally divided on impeachment and may not even control the House until 2027"
       ],
       "watch_item": "A major, unprecedented crisis — such as a nuclear incident or massive scandal — that fractures the Republican Senate coalition beyond anything seen in modern politics"
+    },
+    {
+      "id": "kalshi:KXSWIFTKELCEWEDDINGLOCATION-30",
+      "cache_key": "1c53792e5661efb6184f7b5f",
+      "title": "Where will Taylor Swift and Travis Kelce’s Wedding occur?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxswiftkelceweddinglocation/where-will-taylor-swift-get-married/kxswiftkelceweddinglocation-30",
+      "category": "Entertainment",
+      "generated_at": "2026-04-30T15:39:46.714796+00:00",
+      "action": "SELL_YES",
+      "choice": "Rhode Island",
+      "fair_probability": 0.06,
+      "market_probability": 0.255,
+      "edge_bps": 1950.0,
+      "confidence": "high",
+      "headline": "Rhode Island Wedding Venue Rumor Debunked — Market Still Pricing It at 25%",
+      "summary": "Multiple credible reports confirm save-the-dates have been sent for a July 3, 2026 New York City wedding, while the rumored Rhode Island venue (Ocean House) has been explicitly denied by the venue itself and its wedding planner. Rhode Island at 25.5% is dramatically overpriced.",
+      "why": [
+        "Save-the-dates for a July 3, 2026 NYC wedding have already been distributed to guests",
+        "Ocean House in Rhode Island publicly denied any booking, debunking the main alternative venue rumor",
+        "With the wedding roughly two months away and invitations out, a last-minute venue switch to RI is extremely unlikely"
+      ],
+      "watch_item": "Any credible report of a venue change or wedding postponement — though with save-the-dates already sent, this would be highly unusual"
     },
     {
       "id": "poly:0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
