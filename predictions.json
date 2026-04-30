@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T15:58:57+00:00",
-  "source_count": 15,
+  "generated_at": "2026-04-30T21:59:11+00:00",
+  "source_count": 16,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -164,29 +164,6 @@
       "watch_item": "A surprise joint announcement or ambiguous declaration by both governments that could be interpreted as meeting the 'permanent deal' resolution criteria"
     },
     {
-      "id": "kalshi:KXCABOUT-26APR20",
-      "cache_key": "0dd354b037f3141931e794ca",
-      "title": "Who will leave Trump's Cabinet next?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxcabout/next-cabinet-memeber-out/kxcabout-26apr20",
-      "category": "Politics",
-      "generated_at": "2026-04-28T17:34:06.478440+00:00",
-      "action": "SELL_YES",
-      "choice": "Howard Lutnick",
-      "fair_probability": 0.09,
-      "market_probability": 0.185,
-      "edge_bps": 950.0,
-      "confidence": "medium",
-      "headline": "Tulsi Gabbard Most Likely Next Cabinet Departure — Lutnick Contract Looks Overpriced",
-      "summary": "Tulsi Gabbard is the clear frontrunner to be the next Trump Cabinet member out, trading at 55% but worth closer to 60%. Meanwhile, Howard Lutnick's 18.5% contract appears significantly overpriced given his central role in tariff policy and absence of departure signals.",
-      "why": [
-        "Gabbard has been publicly sidelined — recent reports highlight her marginalization and friction over FISA 702 surveillance policy",
-        "The market's total probabilities sum to ~155%, meaning long-shot contracts are systematically overpriced by construction",
-        "Lutnick remains operationally critical as Trump's point man on tariffs with no credible exit rumors"
-      ],
-      "watch_item": "Whether Gabbard's sidelining leads to a formal resignation or if she quietly stays on indefinitely, which would erode the time advantage priced into her contract"
-    },
-    {
       "id": "kalshi:KXPRESNOMD-28",
       "cache_key": "cdc201f20b32f2f563d2d50a",
       "title": "2028 Democratic presidential nominee",
@@ -300,6 +277,52 @@
         "The resolution requires another force to establish actual governmental or military control — an extraordinarily high bar that no actor is even attempting"
       ],
       "watch_item": "Any indication of a US or allied amphibious military operation targeting Kharg Island, though no current intelligence or reporting suggests this is remotely on the table"
+    },
+    {
+      "id": "kalshi:KXNEXTLABORSEC-29",
+      "cache_key": "5c5cc0412e8e8d323632b3d7",
+      "title": "Who will be Trump's next Secretary of Labor?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextlaborsec/next-labor-sec/kxnextlaborsec-29",
+      "category": "Politics",
+      "generated_at": "2026-04-30T17:09:25.452041+00:00",
+      "action": "SELL_YES",
+      "choice": "Glenn Youngkin",
+      "fair_probability": 0.03,
+      "market_probability": 0.08,
+      "edge_bps": 500.0,
+      "confidence": "medium",
+      "headline": "Glenn Youngkin Overpriced for Labor Secretary at 8%",
+      "summary": "With the Labor Secretary seat vacant since late April 2026 and acting Secretary Keith Sonderling holding the post, the market is overvaluing Glenn Youngkin's chances at 8% — reporting indicates White House frustration with Youngkin, and he has no labor policy background.",
+      "why": [
+        "Reports indicate White House friction with Youngkin over Virginia redistricting disputes",
+        "Youngkin has no meaningful labor policy background or credible links to the role",
+        "Acting Secretary Sonderling holds the incumbent advantage and business community support"
+      ],
+      "watch_item": "Any signal that Trump is formally considering Youngkin for a Cabinet role despite reported tensions would invalidate the thesis"
+    },
+    {
+      "id": "kalshi:KXCABOUT-26APR20",
+      "cache_key": "f59e023ef84e7f0f5014fcc5",
+      "title": "Who will leave Trump's Cabinet next?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxcabout/next-cabinet-memeber-out/kxcabout-26apr20",
+      "category": "Politics",
+      "generated_at": "2026-04-30T17:31:07.568854+00:00",
+      "action": "BUY_YES",
+      "choice": "Tulsi Gabbard",
+      "fair_probability": 0.6,
+      "market_probability": 0.555,
+      "edge_bps": 450.0,
+      "confidence": "medium",
+      "headline": "Tulsi Gabbard Is the Most Likely Next Cabinet Departure",
+      "summary": "Gabbard is the clear frontrunner to be the next Trump Cabinet member out, with a fair probability around 60% versus the market's 55.5%, offering a modest but real edge for buyers.",
+      "why": [
+        "Gabbard has been visibly sidelined — reports of internal friction over FISA 702 and growing distrust from Trump's inner circle",
+        "Three women have already departed the Cabinet (Noem, Bondi, Chavez-DeRemer), and Gabbard fits the emerging pattern",
+        "The market's total probabilities sum to ~162%, systematically overpricing long-shot candidates and compressing the frontrunner's edge"
+      ],
+      "watch_item": "If Kash Patel — reportedly on thin ice but not listed in this market — departs first, it would delay resolution and tie up capital without paying out"
     },
     {
       "id": "kalshi:KXPRESPERSON-28",
