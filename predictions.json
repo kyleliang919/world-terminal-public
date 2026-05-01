@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T03:59:12+00:00",
-  "source_count": 16,
+  "generated_at": "2026-05-01T17:40:14+00:00",
+  "source_count": 20,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -24,6 +24,52 @@
         "Donald Trump Sr. at 3.55% is essentially free money to sell — the 22nd Amendment bars him from a third term"
       ],
       "watch_item": "A significant escalation of U.S. military involvement in Iran could crater Vance's approval and open the door to a serious challenger like Rubio or DeSantis"
+    },
+    {
+      "id": "kalshi:KXLEADERSOUT-27JAN01",
+      "cache_key": "78394dfdd20e2087c0d8a10f",
+      "title": "Which world leaders will leave office in 2026?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxleadersout/world-leaders-out-this-year/kxleadersout-27jan01",
+      "category": "Politics",
+      "generated_at": "2026-05-01T06:23:33.886581+00:00",
+      "action": "SELL_YES",
+      "choice": "Miguel Díaz-Canel",
+      "fair_probability": 0.18,
+      "market_probability": 0.585,
+      "edge_bps": 4050.0,
+      "confidence": "high",
+      "headline": "Cuba's Díaz-Canel Wildly Overpriced to Leave Office in 2026",
+      "summary": "The market prices Díaz-Canel at a 58.5% chance of leaving office this year, but with no democratic mechanism to remove him and his explicit refusal to step down, the fair probability is closer to 18% — a massive mispricing.",
+      "why": [
+        "Díaz-Canel has publicly stated he will not resign, and Cuba's single-party system has no pathway for forced removal",
+        "Cuba's authoritarian precedent is clear: Fidel Castro held power for 49 years without being ousted",
+        "No credible internal opposition, military threat, or external regime-change effort is currently in play"
+      ],
+      "watch_item": "A sudden health crisis, internal Communist Party power struggle, or dramatic escalation of U.S.-Cuba tensions could shift the calculus"
+    },
+    {
+      "id": "kalshi:KXTRUMPCHINA-26",
+      "cache_key": "54cb5d021026dfe0ab7411f0",
+      "title": "When will Trump visit China?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpchina/when-will-trump-visit-china/kxtrumpchina-26",
+      "category": "Politics",
+      "generated_at": "2026-05-01T14:26:36.921285+00:00",
+      "action": "BUY_YES",
+      "choice": "Before May 15, 2026",
+      "fair_probability": 0.82,
+      "market_probability": 0.53,
+      "edge_bps": 2900.0,
+      "confidence": "high",
+      "headline": "Trump's China Visit Confirmed for May 14–15 — Market Severely Underpricing 'Before May 15'",
+      "summary": "Both the White House and China's foreign ministry have officially confirmed a state visit for May 14–15, 2026, with active diplomatic preparations underway. The 'Before May 15' contract at 53% dramatically underprices what is now a confirmed, imminent trip just days away.",
+      "why": [
+        "State visit officially confirmed by both governments for May 14–15, with high-level prep calls already happening",
+        "The Iran ceasefire that caused the original March postponement is holding, removing the key prior disruption risk",
+        "Market at 53% implies a coin flip for an event that is actively scheduled and 13 days out — roughly 29 points of edge"
+      ],
+      "watch_item": "Any sudden geopolitical crisis — such as an Iran flare-up, Taiwan escalation, or diplomatic breakdown over trade terms — that could force a second postponement"
     },
     {
       "id": "poly:0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
@@ -185,6 +231,52 @@
         "Other candidates like Ossoff (8.6% with zero polling support) appear overpriced, suggesting broad market mispricing"
       ],
       "watch_item": "Whether Harris makes a definitive decision not to run — that would collapse her value instantly and is the single biggest risk to this bet"
+    },
+    {
+      "id": "poly:0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+      "cache_key": "4c2dbfb010332256f85ed39c",
+      "title": "Strait of Hormuz traffic returns to normal by end of May?",
+      "venue": "polymarket",
+      "market_url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+      "category": "",
+      "generated_at": "2026-05-01T16:52:20.302052+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.12,
+      "market_probability": 0.195,
+      "edge_bps": 750.0,
+      "confidence": "high",
+      "headline": "Strait of Hormuz Traffic Recovery by May 31 Looks Nearly Impossible",
+      "summary": "With current shipping traffic at roughly 5% of normal levels amid an active US-Iran military confrontation, a 10x surge sustained over seven days by month's end is extremely unlikely. Fair probability sits around 12%, well below the market's ~20%.",
+      "why": [
+        "Only 6-7 ships/day are transiting versus a ~140/day baseline — closing that gap in 30 days during active hostilities has no historical precedent",
+        "Even if a surprise ceasefire were announced tomorrow, insurance repricing, rerouting, and confidence restoration typically take 2-3 weeks minimum",
+        "Negotiations remain stalled: Iran's April 28 reopening proposal has not been accepted, and dueling blockades continue"
+      ],
+      "watch_item": "A rapid US-Iran ceasefire deal in early May combined with the 100+ tankers already queued nearby could theoretically create a short-lived traffic spike that meets the 7-day threshold"
+    },
+    {
+      "id": "kalshi:KXSCOURT-29",
+      "cache_key": "d89f011d34cc2f0456b7d752",
+      "title": "Who will be the next Supreme Court justice?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxscourt/next-scotus-justice/kxscourt-29",
+      "category": "Politics",
+      "generated_at": "2026-05-01T04:12:19.032854+00:00",
+      "action": "SELL_YES",
+      "choice": "Ron DeSantis",
+      "fair_probability": 0.03,
+      "market_probability": 0.105,
+      "edge_bps": 750.0,
+      "confidence": "high",
+      "headline": "Ron DeSantis at 10.5% for Next SCOTUS Justice Is a Clear Overprice",
+      "summary": "With no Supreme Court vacancy in sight and DeSantis lacking judicial experience or credible shortlist placement, the market is pricing him far above his realistic ~3% chance of becoming the next justice.",
+      "why": [
+        "No SCOTUS vacancy exists — both Alito and Thomas have denied 2026 retirement plans",
+        "DeSantis has zero judicial experience and appears on no credible insider shortlists, while proven judges like Ho and Oldham dominate frontrunner reporting",
+        "The market is oversubscribed at ~113% total, systematically inflating speculative long-shot names"
+      ],
+      "watch_item": "Any credible reporting of an Alito or Thomas retirement, or Trump publicly floating DeSantis as a potential nominee, would dramatically reshape this market"
     },
     {
       "id": "kalshi:KXBLUESPACEX-30",
