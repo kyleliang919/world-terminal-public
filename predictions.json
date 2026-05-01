@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T17:40:14+00:00",
-  "source_count": 20,
+  "generated_at": "2026-05-01T23:40:28+00:00",
+  "source_count": 21,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -239,21 +239,21 @@
       "venue": "polymarket",
       "market_url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
       "category": "",
-      "generated_at": "2026-05-01T16:52:20.302052+00:00",
+      "generated_at": "2026-05-01T17:49:22.391083+00:00",
       "action": "BET_NO",
       "choice": null,
       "fair_probability": 0.12,
       "market_probability": 0.195,
       "edge_bps": 750.0,
       "confidence": "high",
-      "headline": "Strait of Hormuz Traffic Recovery by May 31 Looks Nearly Impossible",
-      "summary": "With current shipping traffic at roughly 5% of normal levels amid an active US-Iran military confrontation, a 10x surge sustained over seven days by month's end is extremely unlikely. Fair probability sits around 12%, well below the market's ~20%.",
+      "headline": "Strait of Hormuz Traffic Unlikely to Normalize by End of May",
+      "summary": "With daily ship transits running at roughly 6–20 vessels versus the ~60 needed to meet the market's threshold, and an active US-Iran military confrontation showing no signs of resolution, a return to normal traffic by May 31 faces overwhelming obstacles.",
       "why": [
-        "Only 6-7 ships/day are transiting versus a ~140/day baseline — closing that gap in 30 days during active hostilities has no historical precedent",
-        "Even if a surprise ceasefire were announced tomorrow, insurance repricing, rerouting, and confidence restoration typically take 2-3 weeks minimum",
-        "Negotiations remain stalled: Iran's April 28 reopening proposal has not been accepted, and dueling blockades continue"
+        "Current traffic is 8–9x below the required threshold, with only 30 days left and no historical precedent for such rapid recovery from an active blockade",
+        "War-risk insurance premiums have surged from 0.25% to 5% of hull value, creating a structural drag that would persist even after a hypothetical ceasefire",
+        "No deal framework exists between the US and Iran, and expert forecasts (including major energy and economic analysts) project no full reopening until August at the earliest"
       ],
-      "watch_item": "A rapid US-Iran ceasefire deal in early May combined with the 100+ tankers already queued nearby could theoretically create a short-lived traffic spike that meets the 7-day threshold"
+      "watch_item": "A sudden comprehensive US-Iran diplomatic breakthrough — Iran has submitted new negotiation proposals and previously briefly reopened the strait, showing that rapid shifts remain possible even if unlikely"
     },
     {
       "id": "kalshi:KXSCOURT-29",
@@ -277,6 +277,29 @@
         "The market is oversubscribed at ~113% total, systematically inflating speculative long-shot names"
       ],
       "watch_item": "Any credible reporting of an Alito or Thomas retirement, or Trump publicly floating DeSantis as a potential nominee, would dramatically reshape this market"
+    },
+    {
+      "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
+      "cache_key": "91aa3a9d2f154f2ef6e186ce",
+      "title": "2026 2026 Midterms: Congress Balance of Power?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxbalancepowercombo/congress-balance-of-power-combo/kxbalancepowercombo-27feb",
+      "category": "Politics",
+      "generated_at": "2026-05-01T18:03:38.982143+00:00",
+      "action": "SELL_YES",
+      "choice": "R-House, R-Senate",
+      "fair_probability": 0.12,
+      "market_probability": 0.185,
+      "edge_bps": 650.0,
+      "confidence": "medium",
+      "headline": "Republican Full Congress Sweep Looks Overpriced at 18.5%",
+      "summary": "The market's pricing of Republicans holding both the House and Senate after the 2026 midterms appears inflated, while Democrats winning both chambers is modestly underpriced at 44.5% against a fair value near 47%.",
+      "why": [
+        "Democrats hold a 5-6 point generic ballot lead with 37 GOP retirements vs. only 21 Democratic retirements, making a House flip highly likely (~83-86%)",
+        "The Senate is a genuine toss-up (~51-53% Democrat), but because wave elections correlate across chambers, a GOP sweep requires beating two unfavorable odds simultaneously",
+        "Multiple independent modeling approaches converge on R-House/R-Senate fair value of just 11-14%, well below the 18.5% market price"
+      ],
+      "watch_item": "A major macroeconomic shock or recession in the next six months could dramatically shift the generic ballot environment and upend current House projections"
     },
     {
       "id": "kalshi:KXBLUESPACEX-30",
