@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T11:45:39+00:00",
-  "source_count": 23,
+  "generated_at": "2026-05-02T20:34:24+00:00",
+  "source_count": 24,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -70,29 +70,6 @@
         "Market at 53% implies a coin flip for an event that is actively scheduled and 13 days out — roughly 29 points of edge"
       ],
       "watch_item": "Any sudden geopolitical crisis — such as an Iran flare-up, Taiwan escalation, or diplomatic breakdown over trade terms — that could force a second postponement"
-    },
-    {
-      "id": "poly:0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "cache_key": "078e09568e78a3e521a08fa7",
-      "title": "Strait of Hormuz traffic returns to normal by end of April?",
-      "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "category": "",
-      "generated_at": "2026-04-20T15:02:17.334094+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.03,
-      "market_probability": 0.285,
-      "edge_bps": 2550.0,
-      "confidence": "high",
-      "headline": "Strait of Hormuz Traffic Recovery by April 30 Is Virtually Impossible",
-      "summary": "With the Strait effectively closed at 0–3 ships per day, an active IRGC blockade, and only 10 days remaining, reaching the required 7-day average of ~60 daily transits is arithmetically near-impossible — making this market dramatically overpriced at ~29%.",
-      "why": [
-        "Traffic has collapsed over 95% from pre-war levels (~130/day to 0–3/day), and Iran's IRGC re-closed the strait on April 18, firing on vessels",
-        "Resolution requires ~420 cumulative transits over 7 consecutive days — a pace that cannot be reached from a standing start even with an instant ceasefire",
-        "Insurance re-rating, vessel repositioning, and shipper confidence restoration historically take weeks to months, far exceeding the remaining window"
-      ],
-      "watch_item": "Any surprise comprehensive peace deal or unexpected data methodology quirk in IMF Portwatch that could redefine how transits are counted"
     },
     {
       "id": "kalshi:KXROBOTMARS-35",
@@ -233,6 +210,29 @@
       "watch_item": "A surprise joint announcement or ambiguous declaration by both governments that could be interpreted as meeting the 'permanent deal' resolution criteria"
     },
     {
+      "id": "kalshi:KXLCPIMAXYOY-27",
+      "cache_key": "f6abc27b703225cc9c7b1e7c",
+      "title": "How high will inflation get this year?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxlcpimaxyoy/inflation-surge-this-year/kxlcpimaxyoy-27",
+      "category": "Economics",
+      "generated_at": "2026-05-02T17:48:53.879409+00:00",
+      "action": "SELL_YES",
+      "choice": "At least 4.5%",
+      "fair_probability": 0.48,
+      "market_probability": 0.605,
+      "edge_bps": 1250.0,
+      "confidence": "medium",
+      "headline": "Inflation Hitting 4.5%+ This Year Is Overpriced at 60.5¢",
+      "summary": "Despite elevated oil prices from the Iran conflict and Strait of Hormuz disruption, most forecasters expect peak U.S. inflation to cluster around 4.0–4.2% — well below the 4.5% threshold the market is pricing at a 60.5% probability. The fair probability is closer to 48%, offering meaningful edge on the sell side.",
+      "why": [
+        "March CPI came in at 3.3% YoY with core inflation a tame 2.6%, suggesting limited second-round price pressures",
+        "Consensus peak inflation forecasts from major institutions cluster around 4.0–4.2%, not 4.5%+",
+        "The Fed is holding rates at 3.5–3.75%, actively constraining demand-side inflation and capping upside"
+      ],
+      "watch_item": "A major escalation in the Iran conflict pushing oil above $130/barrel could drive headline CPI past 4.5% and invalidate the sell thesis"
+    },
+    {
       "id": "kalshi:KXPRESNOMD-28",
       "cache_key": "cdc201f20b32f2f563d2d50a",
       "title": "2028 Democratic presidential nominee",
@@ -308,44 +308,21 @@
       "venue": "kalshi",
       "market_url": "https://kalshi.com/markets/kxbalancepowercombo/congress-balance-of-power-combo/kxbalancepowercombo-27feb",
       "category": "Politics",
-      "generated_at": "2026-05-02T05:42:12.992149+00:00",
+      "generated_at": "2026-05-02T14:56:23.654011+00:00",
       "action": "SELL_YES",
       "choice": "R-House, R-Senate",
       "fair_probability": 0.12,
       "market_probability": 0.185,
       "edge_bps": 650.0,
       "confidence": "high",
-      "headline": "Republican Full Control of Congress Overpriced at 18.5% — Fair Value Near 12%",
-      "summary": "The market significantly overprices Republicans holding both chambers after the 2026 midterms, while slightly underpricing a full Democratic sweep. A massive generic ballot lead, record GOP retirements, and historical out-party midterm trends all point toward Democratic gains.",
+      "headline": "Democrats Favored to Sweep Congress in 2026 — Market Underpricing the Blue Wave",
+      "summary": "A D+10 generic ballot lead and record GOP House retirements make Democratic House control near-certain (~85%), while Senate control is a genuine coin flip (~51-52% Dem), creating a combined ~47% chance of a full Democratic sweep — slightly above the market's 44.5%.",
       "why": [
-        "Democrats hold a ~D+10 generic ballot lead and benefit from strong historical out-party midterm tailwinds",
-        "A record 37 GOP House retirements vs. 21 Democratic retirements create an unusually favorable map for Democrats",
-        "Cross-platform consensus puts Democratic Senate control probability ~5 points higher than this market implies, making the R-R combo the clearest mispricing"
+        "Generic ballot polling shows Democrats leading by ~10 points, historically consistent with a strong House wave",
+        "A record 37 Republican House retirements are opening up vulnerable seats across the map",
+        "Republican full-control scenario (R-House, R-Senate) is the clearest mispricing at 18.5% vs. a fair value near 12%"
       ],
-      "watch_item": "Major shifts in economic conditions or the generic ballot over the next six months could narrow Democrats' structural advantages and reprice the Republican sweep higher"
-    },
-    {
-      "id": "kalshi:KXBLUESPACEX-30",
-      "cache_key": "01148055fbb5cba391be3f86",
-      "title": "Will Blue Origin land on the moon before SpaceX?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxbluespacex/blue-origin-spacex-moon/kxbluespacex-30",
-      "category": "Science and Technology",
-      "generated_at": "2026-04-27T15:20:36.972628+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.6,
-      "market_probability": 0.665,
-      "edge_bps": 650.0,
-      "confidence": "medium",
-      "headline": "Blue Origin Moon Race Odds Look Slightly Overpriced",
-      "summary": "The market prices Blue Origin landing on the moon before SpaceX at 66.5%, but a fair estimate is closer to 60% — the substantial chance that neither company lands before 2030 tilts the odds toward NO more than the market reflects.",
-      "why": [
-        "New Glenn is grounded after its second upper-stage failure in just 3 flights, raising systemic reliability concerns for Blue Origin's lunar ambitions",
-        "A 15-25% probability that neither company lands before the 2030 deadline is a major NO component that race-framing tends to underweight",
-        "SpaceX's far higher flight cadence (12 Starship flights vs. 3 total for Blue Origin) gives it a faster problem-solving loop despite harder orbital refueling requirements"
-      ],
-      "watch_item": "New Glenn's return-to-flight timeline — a quick fix to the upper-stage issue would significantly strengthen the case for Blue Origin landing first"
+      "watch_item": "Toss-up Senate races in the next six months — an economic shock or major scandal could swing the roughly 50/50 Senate picture decisively in either direction"
     },
     {
       "id": "kalshi:KXOAIANTH-40",
@@ -394,29 +371,6 @@
       "watch_item": "Any formal press release or official corporate statement from a frontier AI lab explicitly claiming AGI achievement — particularly from unpredictable actors like Elon Musk's xAI"
     },
     {
-      "id": "poly:0xa78ecba9c4273564cce4b810db46bb36cc35db9cd52fc4e067c77f85af1c1048",
-      "cache_key": "ae46eab33ecd7f93dfe0b610",
-      "title": "Kharg Island no longer under Iranian control by April 30?",
-      "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-april-30-912",
-      "category": "",
-      "generated_at": "2026-04-20T06:34:02.675117+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.03,
-      "market_probability": 0.0835,
-      "edge_bps": 535.0,
-      "confidence": "high",
-      "headline": "Kharg Island Stays Iranian — Market Overprices an Implausible Scenario",
-      "summary": "With only 10 days remaining, Iran maintains full operational control of Kharg Island, with tankers actively loading oil as of April 17 and no credible military operation underway to seize the territory. The market at ~8% significantly overprices what is realistically a ~3% tail-risk event.",
-      "why": [
-        "Iranian tankers are actively loading oil at Kharg Island right now — clear, unambiguous operational control",
-        "No amphibious invasion is underway or credibly planned, and even one launched today couldn't establish territorial control in 10 days",
-        "The resolution requires another force to establish actual governmental or military control — an extraordinarily high bar that no actor is even attempting"
-      ],
-      "watch_item": "Any indication of a US or allied amphibious military operation targeting Kharg Island, though no current intelligence or reporting suggests this is remotely on the table"
-    },
-    {
       "id": "kalshi:KXNEXTLABORSEC-29",
       "cache_key": "5c5cc0412e8e8d323632b3d7",
       "title": "Who will be Trump's next Secretary of Labor?",
@@ -438,6 +392,52 @@
         "Acting Secretary Sonderling holds the incumbent advantage and business community support"
       ],
       "watch_item": "Any signal that Trump is formally considering Youngkin for a Cabinet role despite reported tensions would invalidate the thesis"
+    },
+    {
+      "id": "poly:0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+      "cache_key": "3746fd29d4be501d590140b9",
+      "title": "US x Iran permanent peace deal by May 15, 2026?",
+      "venue": "polymarket",
+      "market_url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by#event-detail-accordion-item-2099029-us-x-iran-permanent-peace-deal-by-may-15-2026",
+      "category": "",
+      "generated_at": "2026-05-02T17:52:18.268160+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.04,
+      "market_probability": 0.085,
+      "edge_bps": 450.0,
+      "confidence": "high",
+      "headline": "US-Iran Permanent Peace Deal by May 15 Is Nearly Impossible",
+      "summary": "With roughly 13 days remaining and no face-to-face talks scheduled, a formal permanent peace deal between the US and Iran is virtually out of reach. The market at 8.5% significantly overprices the chance of resolution.",
+      "why": [
+        "Core disputes on nuclear enrichment and sanctions sequencing remain unresolved, with the US rejecting Iran's latest proposal",
+        "No direct negotiations are scheduled—proposals are still being shuttled through Pakistani intermediaries, and US envoy travel was canceled in late April",
+        "The resolution bar is extraordinarily high: a formal 'permanent' peace deal confirmed by both governments, not a framework or ceasefire extension"
+      ],
+      "watch_item": "Any surprise announcement of direct US-Iran talks or a Trump-driven dramatic diplomatic pivot could rapidly shift odds"
+    },
+    {
+      "id": "kalshi:KXBLUESPACEX-30",
+      "cache_key": "17b89cb8c4d2ba2743f7ad14",
+      "title": "Will Blue Origin land on the moon before SpaceX?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxbluespacex/blue-origin-spacex-moon/kxbluespacex-30",
+      "category": "Science and Technology",
+      "generated_at": "2026-05-02T15:15:23.088698+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.6,
+      "market_probability": 0.645,
+      "edge_bps": 450.0,
+      "confidence": "medium",
+      "headline": "Blue Origin Moon Landing Odds Look Slightly Overpriced",
+      "summary": "The market prices Blue Origin landing on the moon before SpaceX at 64.5%, but a fair estimate is closer to 60%. A modest NO position captures edge from both Blue Origin's execution struggles and the meaningful chance neither company lands before the 2030 deadline.",
+      "why": [
+        "Blue Origin's simpler single-launch architecture is real, but New Glenn remains grounded after repeated upper-stage failures — execution risk is high",
+        "There's a 15-25% chance neither company lands on the moon before 2030, and that entire scenario resolves NO",
+        "SpaceX's orbital refueling challenge (10-15 tanker flights) is daunting, but its iteration pace and launch cadence partially offset that complexity"
+      ],
+      "watch_item": "New Glenn's return to flight — a quick and successful resumption would shift odds meaningfully toward Blue Origin and erode the NO edge"
     },
     {
       "id": "kalshi:KXCABOUT-26APR20",
@@ -484,6 +484,29 @@
         "A fair compound probability of ~11% for Rubio to win both the nomination and the general election leaves meaningful downside in the current 15.5% price"
       ],
       "watch_item": "Vance's historically low approval ratings (37%) — if they collapse further or Iran-related policy backlash lands squarely on the VP, Rubio could emerge as the credible GOP alternative and close the polling gap"
+    },
+    {
+      "id": "kalshi:KXSAVEACT-27-JAN04",
+      "cache_key": "8a7d084b3e120562304b7351",
+      "title": "Will the SAVE Act become law?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxsaveact/will-the-save-act-become-law/kxsaveact-27",
+      "category": "Politics",
+      "generated_at": "2026-05-02T17:45:30.111878+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.07,
+      "market_probability": 0.0975,
+      "edge_bps": 275.0,
+      "confidence": "medium",
+      "headline": "SAVE Act Faces Near-Impossible Path After Senate Defeat",
+      "summary": "The SAVE Act passed the House but was voted down 48-50 in the Senate, with four Republican senators joining all Democrats in opposition. With the 60-vote filibuster threshold still in place and no viable path to the supermajority needed, the bill has very low odds of becoming law.",
+      "why": [
+        "Already failed a Senate floor vote 48-50, and bills that fail at this stage historically have less than a 5% chance of revival",
+        "The 60-vote filibuster threshold remains intact — Senate leadership continues to resist the nuclear option despite White House pressure",
+        "Zero Democratic support and bipartisan Republican defections make assembling even a simple majority unlikely, let alone a supermajority"
+      ],
+      "watch_item": "Any serious movement toward a filibuster carve-out or attaching SAVE Act provisions as a rider to must-pass legislation like a government funding bill"
     },
     {
       "id": "kalshi:KXSB-27",
