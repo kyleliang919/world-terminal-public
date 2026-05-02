@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T23:40:28+00:00",
-  "source_count": 21,
+  "generated_at": "2026-05-02T05:45:38+00:00",
+  "source_count": 23,
   "cards": [
     {
       "id": "kalshi:KXPRESNOMR-28",
@@ -93,6 +93,29 @@
         "Insurance re-rating, vessel repositioning, and shipper confidence restoration historically take weeks to months, far exceeding the remaining window"
       ],
       "watch_item": "Any surprise comprehensive peace deal or unexpected data methodology quirk in IMF Portwatch that could redefine how transits are counted"
+    },
+    {
+      "id": "kalshi:KXROBOTMARS-35",
+      "cache_key": "b6156437acffae2b0677b3d4",
+      "title": "Will a humanoid robot walk on Mars before a human does?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxrobotmars/humanoid-robot-on-mars/kxrobotmars-35",
+      "category": "Science and Technology",
+      "generated_at": "2026-05-02T04:07:19.507043+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.22,
+      "market_probability": 0.4705,
+      "edge_bps": 2505.0,
+      "confidence": "medium",
+      "headline": "Humanoid Robot on Mars by 2035? Market Overprices a Near-Impossible Chain of Firsts",
+      "summary": "The market prices a humanoid robot walking on Mars before 2035 at ~47%, but the unprecedented chain of technological achievements required — an untested interplanetary Starship, a space-hardened humanoid robot, and successful Mars landing and deployment — makes fair value closer to 22%.",
+      "why": [
+        "No humanoid robot has ever operated on any extraterrestrial surface, and space-hardening one for Mars conditions requires years beyond current Earth prototypes",
+        "Starship hasn't completed orbital refueling or any Mars-capable mission, with only 3 realistic Mars transfer windows left (2028-29, 2031, 2033)",
+        "Historical Mars landing success rates hover around 50%, and ambitious space timelines consistently slip 3-5x from initial promises"
+      ],
+      "watch_item": "SpaceX achieving successful orbital refueling and a Mars-bound Starship demonstration flight by 2028 would significantly shift the odds upward"
     },
     {
       "id": "kalshi:KXTRUMPPARDONS-29JAN21",
@@ -285,21 +308,21 @@
       "venue": "kalshi",
       "market_url": "https://kalshi.com/markets/kxbalancepowercombo/congress-balance-of-power-combo/kxbalancepowercombo-27feb",
       "category": "Politics",
-      "generated_at": "2026-05-01T18:03:38.982143+00:00",
+      "generated_at": "2026-05-02T05:42:12.992149+00:00",
       "action": "SELL_YES",
       "choice": "R-House, R-Senate",
       "fair_probability": 0.12,
       "market_probability": 0.185,
       "edge_bps": 650.0,
-      "confidence": "medium",
-      "headline": "Republican Full Congress Sweep Looks Overpriced at 18.5%",
-      "summary": "The market's pricing of Republicans holding both the House and Senate after the 2026 midterms appears inflated, while Democrats winning both chambers is modestly underpriced at 44.5% against a fair value near 47%.",
+      "confidence": "high",
+      "headline": "Republican Full Control of Congress Overpriced at 18.5% — Fair Value Near 12%",
+      "summary": "The market significantly overprices Republicans holding both chambers after the 2026 midterms, while slightly underpricing a full Democratic sweep. A massive generic ballot lead, record GOP retirements, and historical out-party midterm trends all point toward Democratic gains.",
       "why": [
-        "Democrats hold a 5-6 point generic ballot lead with 37 GOP retirements vs. only 21 Democratic retirements, making a House flip highly likely (~83-86%)",
-        "The Senate is a genuine toss-up (~51-53% Democrat), but because wave elections correlate across chambers, a GOP sweep requires beating two unfavorable odds simultaneously",
-        "Multiple independent modeling approaches converge on R-House/R-Senate fair value of just 11-14%, well below the 18.5% market price"
+        "Democrats hold a ~D+10 generic ballot lead and benefit from strong historical out-party midterm tailwinds",
+        "A record 37 GOP House retirements vs. 21 Democratic retirements create an unusually favorable map for Democrats",
+        "Cross-platform consensus puts Democratic Senate control probability ~5 points higher than this market implies, making the R-R combo the clearest mispricing"
       ],
-      "watch_item": "A major macroeconomic shock or recession in the next six months could dramatically shift the generic ballot environment and upend current House projections"
+      "watch_item": "Major shifts in economic conditions or the generic ballot over the next six months could narrow Democrats' structural advantages and reprice the Republican sweep higher"
     },
     {
       "id": "kalshi:KXBLUESPACEX-30",
@@ -461,6 +484,29 @@
         "A fair compound probability of ~11% for Rubio to win both the nomination and the general election leaves meaningful downside in the current 15.5% price"
       ],
       "watch_item": "Vance's historically low approval ratings (37%) — if they collapse further or Iran-related policy backlash lands squarely on the VP, Rubio could emerge as the credible GOP alternative and close the polling gap"
+    },
+    {
+      "id": "kalshi:KXSB-27",
+      "cache_key": "762438cfe1b987d0502acae8",
+      "title": "2027 Pro Football Champion",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxsb/super-bowl/kxsb-27",
+      "category": "Sports",
+      "generated_at": "2026-05-02T05:12:41.136175+00:00",
+      "action": "BUY_YES",
+      "choice": "Baltimore",
+      "fair_probability": 0.075,
+      "market_probability": 0.055,
+      "edge_bps": 200.0,
+      "confidence": "medium",
+      "headline": "Baltimore Ravens Underpriced for Super Bowl LXII",
+      "summary": "At 5.5% on Kalshi, Baltimore is meaningfully cheaper than the ~7–9% implied by major sportsbooks, offering roughly 2 percentage points of edge on an elite quarterback-led contender.",
+      "why": [
+        "Sportsbooks consistently price Baltimore around 7–9% implied probability — well above Kalshi's 5.5%",
+        "Lamar Jackson remains one of the NFL's elite quarterbacks with a roster built to contend",
+        "NFL parity and a wide-open conference create value on underpriced contenders this far from kickoff"
+      ],
+      "watch_item": "Key Baltimore injuries, roster moves, or offseason trades that could shift their competitive outlook before the season begins"
     },
     {
       "id": "kalshi:KXFEDCHAIRCONFIRM",
