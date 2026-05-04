@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-05-03T02:34:27+00:00",
+  "generated_at": "2026-05-04T05:01:19+00:00",
   "source_count": 24,
   "cards": [
-    {
-      "id": "kalshi:KXPRESNOMR-28",
-      "cache_key": "ca81f89e09e1a94760332297",
-      "title": "2028 Republican presidential nominee",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxpresnomr/republican-primary-winner/kxpresnomr-28",
-      "category": "Elections",
-      "generated_at": "2026-04-27T04:22:34.210392+00:00",
-      "action": "SELL_YES",
-      "choice": "Tucker Carlson",
-      "fair_probability": 0.02,
-      "market_probability": 0.0765,
-      "edge_bps": 5650.0,
-      "confidence": "high",
-      "headline": "J.D. Vance Is Underpriced for the 2028 GOP Nomination",
-      "summary": "Vance's 37.5% market price significantly underestimates the historical dominance of sitting Vice Presidents in primaries, his commanding 42% polling lead, and his lock on party infrastructure. The best opportunities are buying Vance and selling overpriced longshots like Tucker Carlson and Donald Trump Sr.",
-      "why": [
-        "Vice Presidents who seek their party's nomination have historically won ~90% of the time, and Vance holds a 28-point polling lead over his nearest rival",
-        "Tucker Carlson at 7.65% is wildly overpriced after publicly breaking with Trump and lacking any campaign infrastructure",
-        "Donald Trump Sr. at 3.55% is essentially free money to sell — the 22nd Amendment bars him from a third term"
-      ],
-      "watch_item": "A significant escalation of U.S. military involvement in Iran could crater Vance's approval and open the door to a serious challenger like Rubio or DeSantis"
-    },
     {
       "id": "kalshi:KXLEADERSOUT-27JAN01",
       "cache_key": "78394dfdd20e2087c0d8a10f",
@@ -95,29 +72,6 @@
       "watch_item": "SpaceX achieving successful orbital refueling and a Mars-bound Starship demonstration flight by 2028 would significantly shift the odds upward"
     },
     {
-      "id": "kalshi:KXTRUMPPARDONS-29JAN21",
-      "cache_key": "30675bdbe58633fdefd3be37",
-      "title": "Who will Trump pardon?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxtrumppardons/who-will-trump-pardon/kxtrumppardons-29jan21",
-      "category": "Politics",
-      "generated_at": "2026-04-27T04:25:33.398940+00:00",
-      "action": "SELL_YES",
-      "choice": "Pete Rose",
-      "fair_probability": 0.02,
-      "market_probability": 0.235,
-      "edge_bps": 2150.0,
-      "confidence": "high",
-      "headline": "Pete Rose Can't Be Pardoned — He's Dead",
-      "summary": "The market prices a 23.5% chance Trump pardons Pete Rose, but Rose died on September 30, 2024, making a presidential pardon legally impossible. This represents the clearest mispricing across all 49 pardon contracts.",
-      "why": [
-        "Pete Rose passed away in September 2024 — you cannot pardon a deceased person",
-        "The market still prices this at 23.5% despite a near-zero fair probability",
-        "This offers roughly 21.5 percentage points of edge with high confidence"
-      ],
-      "watch_item": "Any unprecedented symbolic or posthumous gesture by Trump that the market's resolution criteria might count as a 'pardon' — extremely unlikely but worth monitoring"
-    },
-    {
       "id": "kalshi:KXMUSKOAI-26",
       "cache_key": "311e0f6315e4026082a5c031",
       "title": "Will Elon win his case against OpenAI?",
@@ -139,29 +93,6 @@
         "Structural asymmetry favors NO: hung jury, mistrial, standing dismissal, or unresolved appeal all count as a Musk loss under market rules"
       ],
       "watch_item": "Whether the judge creates novel precedent on donor standing — if she allows Musk's claims to proceed on the merits despite the doctrine, the legal calculus shifts dramatically in his favor."
-    },
-    {
-      "id": "kalshi:KXTRUMPREMOVE",
-      "cache_key": "d97c3a08221dfaefb4751976",
-      "title": "Will Trump be impeached and removed from office?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxtrumpremove/trump-removed/kxtrumpremove",
-      "category": "Politics",
-      "generated_at": "2026-04-27T04:02:19.046731+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.06,
-      "market_probability": 0.265,
-      "edge_bps": 2050.0,
-      "confidence": "high",
-      "headline": "Trump Removal Market Vastly Overpriced at 26.5%",
-      "summary": "No U.S. president has ever been removed via impeachment, and the structural barriers — especially the 67-vote Senate threshold — make this outcome extremely unlikely even over a 2.7-year horizon. Fair probability sits around 6%, creating a substantial edge for NO.",
-      "why": [
-        "Zero presidents removed by impeachment in 235 years of U.S. history (0 for 46)",
-        "Senate conviction requires ~17 Republican defections — far beyond the 7 who crossed over in 2021",
-        "Democrats are internally divided on impeachment and may not even control the House until 2027"
-      ],
-      "watch_item": "A major, unprecedented crisis — such as a nuclear incident or massive scandal — that fractures the Republican Senate coalition beyond anything seen in modern politics"
     },
     {
       "id": "kalshi:KXSWIFTKELCEWEDDINGLOCATION-30",
@@ -187,27 +118,50 @@
       "watch_item": "Any credible report of a venue change or wedding postponement — though with save-the-dates already sent, this would be highly unusual"
     },
     {
-      "id": "poly:0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
-      "cache_key": "fb157541e079cdf3870e22ee",
-      "title": "US x Iran permanent peace deal by April 22, 2026?",
+      "id": "poly:0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "cache_key": "6f074235da3f4a8b8f4adc5c",
+      "title": "US x Iran permanent peace deal by May 31, 2026?",
       "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by#event-detail-accordion-item-1919417-us-x-iran-permanent-peace-deal-by-april-22-2026",
+      "market_url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by#event-detail-accordion-item-1919425-us-x-iran-permanent-peace-deal-by-may-31-2026-333-871",
       "category": "",
-      "generated_at": "2026-04-21T05:08:17.447712+00:00",
+      "generated_at": "2026-05-03T03:45:21.895780+00:00",
       "action": "BET_NO",
       "choice": null,
-      "fair_probability": 0.03,
-      "market_probability": 0.195,
-      "edge_bps": 1650.0,
+      "fair_probability": 0.08,
+      "market_probability": 0.225,
+      "edge_bps": 1450.0,
       "confidence": "high",
-      "headline": "US-Iran Permanent Peace Deal by April 22 Is Near-Impossible",
-      "summary": "With fewer than 24 hours until the deadline, talks haven't even begun, Iran hasn't confirmed attendance, and the resolution requires a formal permanent peace deal—not a framework, ceasefire, or memorandum of understanding. The market at ~19.5% dramatically overprices YES.",
+      "headline": "US-Iran Permanent Peace Deal by May 31 Remains Highly Unlikely",
+      "summary": "Despite active indirect negotiations through Pakistani mediators, the fundamental impasse between the US and Iran on nuclear and sanctions sequencing—combined with hostile public rhetoric from both sides—makes a formal permanent peace deal within 28 days extremely improbable.",
       "why": [
-        "Resolution demands a PERMANENT deal—an impossibly high bar when prior rounds collapsed and parties remain 'worlds apart' on nuclear issues",
-        "Iran hasn't confirmed participation in Islamabad talks; its IRGC is pressuring negotiators to refuse under the current blockade",
-        "Trump's repeated claims of imminent deals have already proven unreliable, and current draft proposals focus on explicitly temporary measures"
+        "Trump publicly stated he's 'not satisfied' with Iran's latest proposal and 'can't imagine it would be acceptable'",
+        "Iran's military headquarters warned that war resumption is likely, signaling no imminent breakthrough",
+        "The resolution requires a formal PERMANENT deal confirmed by both governments—an extraordinarily high bar given no US-Iran peace deal has been reached since 1979"
       ],
-      "watch_item": "A surprise joint announcement or ambiguous declaration by both governments that could be interpreted as meeting the 'permanent deal' resolution criteria"
+      "watch_item": "Any announcement of direct, high-level US-Iran talks or a surprise Trump statement claiming a deal framework—back-channel negotiations may be further along than public reporting suggests"
+    },
+    {
+      "id": "kalshi:KXECONPATH-26",
+      "cache_key": "60cb955c4bc5771089313fd9",
+      "title": "State of the economy at the end of 2026",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxeconpath/state-of-the-economy/kxeconpath-26",
+      "category": "Economics",
+      "generated_at": "2026-05-03T21:10:15.981189+00:00",
+      "action": "SELL_YES",
+      "choice": "Stagflation",
+      "fair_probability": 0.27,
+      "market_probability": 0.395,
+      "edge_bps": 1250.0,
+      "confidence": "medium",
+      "headline": "Stagflation Fears Look Overpriced — Labor Market Too Strong for the Doom Scenario",
+      "summary": "The market prices stagflation by end of 2026 at nearly 40%, but unemployment would need to climb from 4.3% to 5.0%+ — a steep hurdle given one of the tightest labor markets in decades. Fair probability is closer to 27%, offering meaningful edge on the NO side.",
+      "why": [
+        "Unemployment at 4.3% with jobless claims near 55-year lows means a +0.7pp jump to the 5.0% stagflation threshold is historically rare outside full recessions",
+        "The economy is still adding ~178K jobs/month with GDP growth at +2.0% — no recession signals in sight",
+        "While elevated energy prices from Middle East tensions keep inflation hot, that points more toward 'overheating' than stagflation without a corresponding labor market collapse"
+      ],
+      "watch_item": "A sharp escalation of the Iran conflict or sudden cascade of government layoffs and tariff shocks could break the labor market faster than historical patterns suggest — watch weekly jobless claims for early warning signs."
     },
     {
       "id": "kalshi:KXLCPIMAXYOY-27",
@@ -233,27 +187,73 @@
       "watch_item": "A major escalation in the Iran conflict pushing oil above $130/barrel could drive headline CPI past 4.5% and invalidate the sell thesis"
     },
     {
-      "id": "kalshi:KXPRESNOMD-28",
-      "cache_key": "cdc201f20b32f2f563d2d50a",
-      "title": "2028 Democratic presidential nominee",
+      "id": "kalshi:KXPRESMATCHUP-28NOV07",
+      "cache_key": "e10fa2482b271db2cf5c77b3",
+      "title": "2028 Presidential matchup",
       "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxpresnomd/democratic-primary-winner/kxpresnomd-28",
+      "market_url": "https://kalshi.com/markets/kxpresmatchup/2028-presidential-matchup/kxpresmatchup-28nov07",
       "category": "Elections",
-      "generated_at": "2026-04-26T23:54:05.871720+00:00",
+      "generated_at": "2026-05-03T20:11:31.714172+00:00",
       "action": "BUY_YES",
-      "choice": "Kamala Harris",
-      "fair_probability": 0.14,
-      "market_probability": 0.064,
-      "edge_bps": 760.0,
-      "confidence": "medium",
-      "headline": "Kamala Harris Is Dramatically Underpriced for 2028 Democratic Nomination",
-      "summary": "Harris polls at 22-24% in early Democratic primary surveys but trades at just 6.4% on Kalshi — the largest polling-to-price gap in the market. Even after discounting for the possibility she doesn't run, fair value sits around 14%, more than double the current price.",
+      "choice": "Kamala Harris v. JD Vance",
+      "fair_probability": 0.155,
+      "market_probability": 0.039,
+      "edge_bps": 1160.0,
+      "confidence": "high",
+      "headline": "Harris vs. Vance Is Massively Underpriced at 4¢",
+      "summary": "Kamala Harris leads 2028 Democratic primary polls at 50%, yet the market prices a Harris-Vance matchup at just 3.9¢ — roughly 4x below fair value when combined with Vance's strong GOP frontrunner status.",
       "why": [
-        "Harris leads national Democratic primary polls at 22-24% while trading at only 6.4% — a massive disconnect",
-        "She is actively signaling a 2028 run with policy speeches and party positioning, plus retains unmatched name ID and donor infrastructure",
-        "Other candidates like Ossoff (8.6% with zero polling support) appear overpriced, suggesting broad market mispricing"
+        "Harris leads Dem primary polls at 50% but the market implies only ~6% chance she wins the nomination — a huge disconnect",
+        "Vance holds a commanding 37-42% GOP lead with strong VP incumbency advantage, putting his nomination odds near 47%",
+        "Newsom and Rubio matchups appear overpriced, reflecting stale conventional wisdom that hasn't caught up to Harris's polling surge"
       ],
-      "watch_item": "Whether Harris makes a definitive decision not to run — that would collapse her value instantly and is the single biggest risk to this bet"
+      "watch_item": "Whether Harris formally enters the 2028 race — strong polls mean nothing if she decides not to run"
+    },
+    {
+      "id": "kalshi:KXIMPEACH-29-JAN20",
+      "cache_key": "118ff636a31923d63cc3f351",
+      "title": "Will President Trump be impeached during his term?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kximpeach/president-impeached/kximpeach-29",
+      "category": "Politics",
+      "generated_at": "2026-05-03T16:28:05.535718+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.6,
+      "market_probability": 0.71,
+      "edge_bps": 1100.0,
+      "confidence": "medium",
+      "headline": "Trump Impeachment Market Looks Overpriced at 71%",
+      "summary": "While Democrats are favored to retake the House in 2026 and would face strong pressure to impeach, the market is pricing in both a midterm flip and a subsequent impeachment vote with too much certainty. A fair probability closer to 60% suggests meaningful edge on the NO side.",
+      "why": [
+        "Democrats are favored but far from certain to win the House in 2026 (~60-65%), and impeachment is nearly impossible without a majority",
+        "Even with a Democratic majority, moderate swing-district members may resist impeachment as politically toxic ahead of 2028",
+        "The market appears to be overweighting the most likely scenario (Dems win → impeach) without adequately discounting the real chance Democrats don't flip the House at all"
+      ],
+      "watch_item": "2026 midterm polling and House generic ballot trends — if Democrats build a commanding lead, the YES case strengthens significantly; if the race tightens, NO becomes even more attractive"
+    },
+    {
+      "id": "kalshi:KXUKPARTY-29",
+      "cache_key": "27a6213e15750c359df02f3d",
+      "title": "Which party will win the next UK general election?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxukparty/uk-elections/kxukparty-29",
+      "category": "Elections",
+      "generated_at": "2026-05-03T20:14:00.924550+00:00",
+      "action": "SELL_YES",
+      "choice": "Green party",
+      "fair_probability": 0.02,
+      "market_probability": 0.1145,
+      "edge_bps": 945.0,
+      "confidence": "high",
+      "headline": "Green Party at 11.5% to Win UK Election Is Wildly Overpriced",
+      "summary": "The market prices the Green Party at roughly 11.5% to win the next UK general election — about 5-6x too high given that first-past-the-post makes a Green victory near-impossible, with the party never having won more than 4 seats.",
+      "why": [
+        "FPTP brutally punishes geographically dispersed parties — Greens poll ~16.5% nationally but translate that into just a handful of seats",
+        "The Greens have never come remotely close to forming a government and lack the concentrated regional base needed under the UK's electoral system",
+        "A fair probability of ~2% versus the market's ~11.5% represents roughly 945 basis points of edge"
+      ],
+      "watch_item": "Any serious movement toward proportional representation or electoral reform, which could transform Green prospects — though this remains highly unlikely before the next election"
     },
     {
       "id": "poly:0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
@@ -302,6 +302,52 @@
       "watch_item": "Any credible reporting of an Alito or Thomas retirement, or Trump publicly floating DeSantis as a potential nominee, would dramatically reshape this market"
     },
     {
+      "id": "kalshi:KXPRESOUTCOME-28NOV07",
+      "cache_key": "81da3d6824c07f150874dd61",
+      "title": "2028 Presidential race: exact outcome",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxpresoutcome/2028-presidential-election-exact-outcome/kxpresoutcome-28nov07",
+      "category": "Elections",
+      "generated_at": "2026-05-03T20:06:49.888349+00:00",
+      "action": "SELL_YES",
+      "choice": "Gavin Newsom defeats JD Vance",
+      "fair_probability": 0.065,
+      "market_probability": 0.135,
+      "edge_bps": 700.0,
+      "confidence": "medium",
+      "headline": "Newsom vs. Vance at 13.5¢ Is Roughly Double Fair Value",
+      "summary": "The market significantly overprices Gavin Newsom as the Democratic nominee despite Kamala Harris surging to 50% in early 2028 primary polling. A Newsom-defeats-Vance contract at 13.5¢ implies ~36% Dem nomination odds for Newsom that current data doesn't support.",
+      "why": [
+        "Harris leads Newsom in Democratic primary polling (50% vs. trailing), yet the market prices Newsom as the clear frontrunner",
+        "Compound probability math (nomination × opponent's nomination × general election win) caps this contract's fair value around 6.5¢",
+        "JD Vance's 37-42% GOP primary lead makes him the likely Republican nominee, but the Democratic side of this matchup is mispriced"
+      ],
+      "watch_item": "Future Democratic primary polls — if Newsom consolidates institutional support and overtakes Harris, the market pricing becomes more justified"
+    },
+    {
+      "id": "kalshi:KXMOLDOVAPRES-28",
+      "cache_key": "ba42fb3b239e28b5a41e07c1",
+      "title": "Who will win the next Moldovan presidential election?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxmoldovapres/moldova-presidency/kxmoldovapres-28",
+      "category": "Elections",
+      "generated_at": "2026-05-03T21:07:21.595402+00:00",
+      "action": "BUY_YES",
+      "choice": "Alexandr Stoianoglo",
+      "fair_probability": 0.3,
+      "market_probability": 0.235,
+      "edge_bps": 650.0,
+      "confidence": "medium",
+      "headline": "Stoianoglo Underpriced as Moldova's Top Opposition Contender for 2028",
+      "summary": "With President Sandu term-limited, the pro-EU vote will fragment across multiple candidates while Alexandr Stoianoglo—who won 44.65% in the 2024 runoff—stands as the proven opposition frontrunner, making his current 23.5% market price a value opportunity.",
+      "why": [
+        "Stoianoglo already proved his appeal with nearly 45% in the 2024 presidential runoff, giving him unmatched name recognition in the opposition lane",
+        "Sandu's departure forces the ruling PAS party to split its base among several successors (Grosu, Recean, Gavrilița), diluting pro-EU support",
+        "The market's total probability sums to only ~82%, meaning contracts are structurally cheap relative to a properly calibrated field"
+      ],
+      "watch_item": "Whether PAS unifies early behind a single consensus candidate—if Grosu or Recean locks up the pro-EU lane before 2027, Stoianoglo's path narrows significantly"
+    },
+    {
       "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
       "cache_key": "91aa3a9d2f154f2ef6e186ce",
       "title": "2026 2026 Midterms: Congress Balance of Power?",
@@ -325,50 +371,27 @@
       "watch_item": "Toss-up Senate races in the next six months — an economic shock or major scandal could swing the roughly 50/50 Senate picture decisively in either direction"
     },
     {
-      "id": "kalshi:KXOAIANTH-40",
-      "cache_key": "a61c4c94e5578eb52a2996b9",
-      "title": "Will OpenAI or Anthropic IPO first?",
+      "id": "kalshi:KXIPOSPACEX",
+      "cache_key": "3755ee00d8383ce8ea6381a9",
+      "title": "When will SpaceX officially announce an IPO?",
       "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxoaianth/open-ai-vs-anthropic/kxoaianth-40",
-      "category": "Financials",
-      "generated_at": "2026-04-29T05:15:16.468852+00:00",
-      "action": "SELL_YES",
-      "choice": "OpenAI",
-      "fair_probability": 0.3,
-      "market_probability": 0.36,
-      "edge_bps": 600.0,
-      "confidence": "low",
-      "headline": "Anthropic Has the IPO Momentum, but Neither Side Offers a Strong Bet",
-      "summary": "Anthropic is actively eyeing an October 2026 IPO with a $1T valuation and clean governance, while OpenAI faces revenue misses and CFO reservations about timing — but a 14-year resolution window makes current signals unreliable enough to warrant staying on the sidelines.",
-      "why": [
-        "Anthropic is reportedly weighing an October 2026 IPO and rejected an $800B pre-IPO round, signaling readiness to go public first",
-        "OpenAI missed revenue and user targets, with analysts saying it likely won't go public this year despite massive capital needs",
-        "Both contracts are close to fair value after accounting for the ~7% market vig, leaving no clear edge on either side"
-      ],
-      "watch_item": "Any announcement that OpenAI has formally filed or accelerated IPO plans due to its $600B spending commitments would dramatically shift the calculus"
-    },
-    {
-      "id": "kalshi:KXAGICO-COMP-26Q4",
-      "cache_key": "0421733bab940ae7dfa19ee6",
-      "title": "When will any company achieve AGI? · Before Jan 1, 2027",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxagico/will-any-company-achieve-agi-before-date/kxagico-comp",
-      "category": "Companies",
-      "generated_at": "2026-04-21T06:27:51.651573+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.09,
-      "market_probability": 0.145,
+      "market_url": "https://kalshi.com/markets/kxipospacex/when-will-spacex-ipo/kxipospacex",
+      "category": "Economics",
+      "generated_at": "2026-05-03T21:25:56.488877+00:00",
+      "action": "BUY_YES",
+      "choice": "Before Aug 1, 2026",
+      "fair_probability": 0.89,
+      "market_probability": 0.835,
       "edge_bps": 550.0,
       "confidence": "medium",
-      "headline": "Formal AGI Declaration Before 2027 Remains Unlikely — Market Overpriced",
-      "summary": "No company has made or signaled intent to make an official AGI announcement, and strong disincentives make one unlikely before January 1, 2027. The market at 14.5% overprices this outcome relative to a fair estimate near 9%.",
+      "headline": "SpaceX IPO on Track for Summer 2026 — Market Underpricing July Completion",
+      "summary": "SpaceX has confidentially filed its S-1 and is targeting a June roadshow with late-June pricing, making completion before August 1, 2026 highly likely. The market's 83.5% implied probability appears roughly 5.5 percentage points too low given the advanced state of preparations.",
       "why": [
-        "Resolution requires an explicit official corporate announcement using the term 'AGI' — a bar no company has ever met",
-        "Major labs face regulatory, liability, and reputational risks from declaring AGI, creating strong disincentives",
-        "Industry trend is shifting toward practical AI applications, not moonshot AGI claims — even OpenAI removed its AGI clause from its Microsoft deal"
+        "Confidential S-1 already filed with the SEC as of early April 2026, with a June roadshow and late-June pricing widely reported",
+        "Multiple credible confirmations — including from Elon Musk himself — point to a 2026 IPO, with institutional investors already preparing",
+        "Even accounting for potential regulatory delays or market disruptions, the August 1 deadline provides meaningful buffer beyond the June target"
       ],
-      "watch_item": "Any formal press release or official corporate statement from a frontier AI lab explicitly claiming AGI achievement — particularly from unpredictable actors like Elon Musk's xAI"
+      "watch_item": "A severe market downturn (e.g., tariff escalation or recession fears) that could freeze the IPO window and push pricing past July"
     },
     {
       "id": "kalshi:KXNEXTLABORSEC-29",
@@ -392,6 +415,29 @@
         "Acting Secretary Sonderling holds the incumbent advantage and business community support"
       ],
       "watch_item": "Any signal that Trump is formally considering Youngkin for a Cabinet role despite reported tensions would invalidate the thesis"
+    },
+    {
+      "id": "kalshi:KXCLAUDE5-27",
+      "cache_key": "5e5331580d606939605a0caa",
+      "title": "Will Anthropic release Claude 5 this year?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxclaude5/claude-5-released/kxclaude5-27",
+      "category": "Science and Technology",
+      "generated_at": "2026-05-03T22:03:16.054198+00:00",
+      "action": "BET_YES",
+      "choice": null,
+      "fair_probability": 0.96,
+      "market_probability": 0.915,
+      "edge_bps": 450.0,
+      "confidence": "high",
+      "headline": "Claude 5 Appears Already Here — Strong YES on 2026 Release",
+      "summary": "Claude Sonnet 5 appears to have already launched in early April 2026, with technical details including pricing and benchmarks reported publicly. Even without this release, Anthropic's aggressive shipping pace and 8 months remaining make a Claude 5 family release near-certain.",
+      "why": [
+        "Claude Sonnet 5 reportedly went live on April 1, 2026, with a confirmed model string appearing on both the consumer product and API",
+        "Anthropic has shipped multiple major model updates in 2026 already, signaling rapid release cadence",
+        "Eight months remain before the January 2027 deadline, and fierce competition from rivals virtually guarantees a major numbered release"
+      ],
+      "watch_item": "Official Anthropic confirmation or retraction of the Claude Sonnet 5 model — if the reported launch turns out to be a premature leak or naming error, timing could shift (though a YES outcome remains highly likely regardless)"
     },
     {
       "id": "poly:0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
@@ -463,29 +509,6 @@
       "watch_item": "If Kash Patel — reportedly on thin ice but not listed in this market — departs first, it would delay resolution and tie up capital without paying out"
     },
     {
-      "id": "kalshi:KXPRESPERSON-28",
-      "cache_key": "90df376757b3dd1937185e1a",
-      "title": "2028 U.S. Presidential Election winner?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxpresperson/pres-person/kxpresperson-28",
-      "category": "Elections",
-      "generated_at": "2026-04-24T18:55:53.529685+00:00",
-      "action": "SELL_YES",
-      "choice": "Marco Rubio",
-      "fair_probability": 0.11,
-      "market_probability": 0.155,
-      "edge_bps": 450.0,
-      "confidence": "medium",
-      "headline": "Marco Rubio Overpriced at 15.5% for 2028 Presidential Win",
-      "summary": "Rubio's 15.5% market price significantly overstates his realistic path to the presidency, with actual primary polls showing him at just 14% compared to J.D. Vance's commanding 42% among GOP voters. Selling Rubio offers roughly 4.5% edge based on the compound probability of winning both a contested primary and the general election.",
-      "why": [
-        "Rubio trails Vance badly in real primary polls (14% vs 42%), despite a misleading CPAC straw poll surge that historically has little predictive value",
-        "J.D. Vance holds massive structural advantages as sitting Vice President, making Rubio's path to the GOP nomination steep and narrow",
-        "A fair compound probability of ~11% for Rubio to win both the nomination and the general election leaves meaningful downside in the current 15.5% price"
-      ],
-      "watch_item": "Vance's historically low approval ratings (37%) — if they collapse further or Iran-related policy backlash lands squarely on the VP, Rubio could emerge as the credible GOP alternative and close the polling gap"
-    },
-    {
       "id": "kalshi:KXSAVEACT-27-JAN04",
       "cache_key": "8a7d084b3e120562304b7351",
       "title": "Will the SAVE Act become law?",
@@ -530,29 +553,6 @@
         "NFL parity and a wide-open conference create value on underpriced contenders this far from kickoff"
       ],
       "watch_item": "Key Baltimore injuries, roster moves, or offseason trades that could shift their competitive outlook before the season begins"
-    },
-    {
-      "id": "kalshi:KXFEDCHAIRCONFIRM",
-      "cache_key": "0b4245c49cecad2148375642",
-      "title": "Who will be confirmed as Fed chair?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxfedchairconfirm/who-will-be-confirmed-as-fed-chair/kxfedchairconfirm",
-      "category": "Politics",
-      "generated_at": "2026-04-23T17:09:29.626673+00:00",
-      "action": "SELL_YES",
-      "choice": "Rick Rieder",
-      "fair_probability": 0.005,
-      "market_probability": 0.016,
-      "edge_bps": 110.0,
-      "confidence": "low",
-      "headline": "Kevin Warsh Remains Overwhelming Favorite for Fed Chair — But Market Leaves No Room to Trade",
-      "summary": "Warsh is the only formal nominee, has completed his confirmation hearing, and has roughly 2.7 years of runway to clear the Senate. At 95¢, the market is pricing him slightly rich versus a ~92% fair probability, but the thin edge and long capital lockup make trading unattractive.",
-      "why": [
-        "Sen. Tillis is blocking the committee vote until a DOJ probe of Powell is dropped, but the hold is tactical — Tillis says he 'likes Warsh' and is retiring in January",
-        "No alternative candidate is formally nominated, and all three listed alternatives (Shelton, Rieder, Hassett) trade at trivial penny-level prices with negligible edge",
-        "With the market closing January 1, 2029, the extended timeline heavily favors eventual confirmation even if the current standoff drags on"
-      ],
-      "watch_item": "Whether Trump agrees to drop the DOJ investigation into former Chair Powell — resolving this would likely clear Tillis's blockade and push Warsh's confirmation probability toward near-certainty"
     }
   ]
 }
