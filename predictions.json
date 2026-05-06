@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T15:34:17+00:00",
+  "generated_at": "2026-05-06T21:34:25+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -47,6 +47,29 @@
         "Market at 53% implies a coin flip for an event that is actively scheduled and 13 days out — roughly 29 points of edge"
       ],
       "watch_item": "Any sudden geopolitical crisis — such as an Iran flare-up, Taiwan escalation, or diplomatic breakdown over trade terms — that could force a second postponement"
+    },
+    {
+      "id": "kalshi:KXHORMUZNORM-26MAR17",
+      "cache_key": "7b3e56acb6eb10e24e293c3f",
+      "title": "When will traffic at the Strait of Hormuz return to normal?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
+      "category": "Politics",
+      "generated_at": "2026-05-06T18:52:29.946322+00:00",
+      "action": "SELL_YES",
+      "choice": "Before Jul 1, 2026",
+      "fair_probability": 0.25,
+      "market_probability": 0.505,
+      "edge_bps": 2550.0,
+      "confidence": "high",
+      "headline": "Strait of Hormuz Traffic Far From Normal — July Deadline Looks Implausible",
+      "summary": "With only 12-20 ships per day transiting vs. the 60+ needed for normalization, structural barriers make a return to normal before July 1 extremely unlikely despite the market pricing it at ~50%.",
+      "why": [
+        "Current traffic is only 20-30% of the level needed, with no sustained upward trend",
+        "Mine clearance, insurance premiums at 5% hull value, and paused shipping programs create weeks-to-months of lag",
+        "Expert forecasts converge on September 2026 or later for normalization — not mid-summer"
+      ],
+      "watch_item": "A comprehensive US-Iran deal or verified mine clearance could dramatically accelerate the timeline"
     },
     {
       "id": "kalshi:KXROBOTMARS-35",
@@ -461,29 +484,6 @@
         "SpaceX's orbital refueling challenge (10-15 tanker flights) is daunting, but its iteration pace and launch cadence partially offset that complexity"
       ],
       "watch_item": "New Glenn's return to flight — a quick and successful resumption would shift odds meaningfully toward Blue Origin and erode the NO edge"
-    },
-    {
-      "id": "kalshi:KXCABOUT-26APR20",
-      "cache_key": "f59e023ef84e7f0f5014fcc5",
-      "title": "Who will leave Trump's Cabinet next?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxcabout/next-cabinet-memeber-out/kxcabout-26apr20",
-      "category": "Politics",
-      "generated_at": "2026-04-30T17:31:07.568854+00:00",
-      "action": "BUY_YES",
-      "choice": "Tulsi Gabbard",
-      "fair_probability": 0.6,
-      "market_probability": 0.555,
-      "edge_bps": 450.0,
-      "confidence": "medium",
-      "headline": "Tulsi Gabbard Is the Most Likely Next Cabinet Departure",
-      "summary": "Gabbard is the clear frontrunner to be the next Trump Cabinet member out, with a fair probability around 60% versus the market's 55.5%, offering a modest but real edge for buyers.",
-      "why": [
-        "Gabbard has been visibly sidelined — reports of internal friction over FISA 702 and growing distrust from Trump's inner circle",
-        "Three women have already departed the Cabinet (Noem, Bondi, Chavez-DeRemer), and Gabbard fits the emerging pattern",
-        "The market's total probabilities sum to ~162%, systematically overpricing long-shot candidates and compressing the frontrunner's edge"
-      ],
-      "watch_item": "If Kash Patel — reportedly on thin ice but not listed in this market — departs first, it would delay resolution and tie up capital without paying out"
     },
     {
       "id": "kalshi:KXMOONMAN-31",
