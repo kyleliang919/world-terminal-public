@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T05:01:19+00:00",
+  "generated_at": "2026-05-06T09:34:15+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -70,52 +70,6 @@
         "Historical Mars landing success rates hover around 50%, and ambitious space timelines consistently slip 3-5x from initial promises"
       ],
       "watch_item": "SpaceX achieving successful orbital refueling and a Mars-bound Starship demonstration flight by 2028 would significantly shift the odds upward"
-    },
-    {
-      "id": "kalshi:KXMUSKOAI-26",
-      "cache_key": "311e0f6315e4026082a5c031",
-      "title": "Will Elon win his case against OpenAI?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxmuskoai/elon-win-vs-open-ai/kxmuskoai-26",
-      "category": "Politics",
-      "generated_at": "2026-04-29T17:53:04.862392+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.36,
-      "market_probability": 0.57,
-      "edge_bps": 2100.0,
-      "confidence": "medium",
-      "headline": "Musk v. OpenAI: Market Overprices a Legally Uphill Battle",
-      "summary": "With Musk having dropped 24 of 26 claims before trial and facing a major donor-standing hurdle, the market at 57% significantly overestimates his chances of winning — fair probability sits closer to 36%.",
-      "why": [
-        "Donors historically lack legal standing to enforce charitable trusts — that right belongs to the state AG, creating a fundamental barrier with almost no favorable precedent for Musk",
-        "Dropping 24 of 26 claims (including all fraud charges) before trial signals pre-trial weakness, leaving only narrow equitable claims",
-        "Structural asymmetry favors NO: hung jury, mistrial, standing dismissal, or unresolved appeal all count as a Musk loss under market rules"
-      ],
-      "watch_item": "Whether the judge creates novel precedent on donor standing — if she allows Musk's claims to proceed on the merits despite the doctrine, the legal calculus shifts dramatically in his favor."
-    },
-    {
-      "id": "kalshi:KXSWIFTKELCEWEDDINGLOCATION-30",
-      "cache_key": "1c53792e5661efb6184f7b5f",
-      "title": "Where will Taylor Swift and Travis Kelce’s Wedding occur?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxswiftkelceweddinglocation/where-will-taylor-swift-get-married/kxswiftkelceweddinglocation-30",
-      "category": "Entertainment",
-      "generated_at": "2026-04-30T15:39:46.714796+00:00",
-      "action": "SELL_YES",
-      "choice": "Rhode Island",
-      "fair_probability": 0.06,
-      "market_probability": 0.255,
-      "edge_bps": 1950.0,
-      "confidence": "high",
-      "headline": "Rhode Island Wedding Venue Rumor Debunked — Market Still Pricing It at 25%",
-      "summary": "Multiple credible reports confirm save-the-dates have been sent for a July 3, 2026 New York City wedding, while the rumored Rhode Island venue (Ocean House) has been explicitly denied by the venue itself and its wedding planner. Rhode Island at 25.5% is dramatically overpriced.",
-      "why": [
-        "Save-the-dates for a July 3, 2026 NYC wedding have already been distributed to guests",
-        "Ocean House in Rhode Island publicly denied any booking, debunking the main alternative venue rumor",
-        "With the wedding roughly two months away and invitations out, a last-minute venue switch to RI is extremely unlikely"
-      ],
-      "watch_item": "Any credible report of a venue change or wedding postponement — though with save-the-dates already sent, this would be highly unusual"
     },
     {
       "id": "poly:0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
@@ -233,6 +187,29 @@
       "watch_item": "2026 midterm polling and House generic ballot trends — if Democrats build a commanding lead, the YES case strengthens significantly; if the race tightens, NO becomes even more attractive"
     },
     {
+      "id": "kalshi:KXOAIANTH-40",
+      "cache_key": "5543e67dcd17968b583542fb",
+      "title": "Will OpenAI or Anthropic IPO first?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxoaianth/open-ai-vs-anthropic/kxoaianth-40",
+      "category": "Financials",
+      "generated_at": "2026-05-05T03:33:51.044871+00:00",
+      "action": "SELL_YES",
+      "choice": "OpenAI",
+      "fair_probability": 0.29,
+      "market_probability": 0.385,
+      "edge_bps": 950.0,
+      "confidence": "medium",
+      "headline": "Anthropic Likely to IPO Before OpenAI — OpenAI Shares Overpriced",
+      "summary": "Anthropic is on track for an October 2026 IPO with clean governance and strong revenue, while OpenAI faces internal delays pushing its listing to 2027. The market is overpricing OpenAI's chances of going public first.",
+      "why": [
+        "Anthropic targeting Oct 2026 IPO with $30B+ revenue and streamlined corporate structure",
+        "OpenAI's CFO pushing IPO to 2027 amid spending concerns and revenue misses",
+        "Anthropic's $900B valuation round signals stronger market confidence and IPO readiness"
+      ],
+      "watch_item": "OpenAI could be forced into an earlier IPO if capital needs outpace private fundraising capacity or board pressure mounts"
+    },
+    {
       "id": "kalshi:KXUKPARTY-29",
       "cache_key": "27a6213e15750c359df02f3d",
       "title": "Which party will win the next UK general election?",
@@ -254,6 +231,29 @@
         "A fair probability of ~2% versus the market's ~11.5% represents roughly 945 basis points of edge"
       ],
       "watch_item": "Any serious movement toward proportional representation or electoral reform, which could transform Green prospects — though this remains highly unlikely before the next election"
+    },
+    {
+      "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
+      "cache_key": "91aa3a9d2f154f2ef6e186ce",
+      "title": "2026 2026 Midterms: Congress Balance of Power?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxbalancepowercombo/congress-balance-of-power-combo/kxbalancepowercombo-27feb",
+      "category": "Politics",
+      "generated_at": "2026-05-05T04:07:20.519928+00:00",
+      "action": "SELL_YES",
+      "choice": "R-House, R-Senate",
+      "fair_probability": 0.11,
+      "market_probability": 0.185,
+      "edge_bps": 750.0,
+      "confidence": "high",
+      "headline": "Democrats Favored to Sweep Congress in 2026 — R-House/R-Senate Looks Overpriced",
+      "summary": "Democrats are strongly positioned to retake the House (~85%) with the Senate a genuine toss-up leaning slightly blue (~52%), making D-House/D-Senate the most likely outcome at roughly 47% fair value versus the market's 44.5%.",
+      "why": [
+        "Generic ballot shows Democrats leading by 5-10 points with presidential approval cratering",
+        "Cross-platform consensus puts Democratic House odds around 85%",
+        "Senate individual race pricing has tipped slightly toward Democrats"
+      ],
+      "watch_item": "Republican redistricting gains in key states could net 8-13 seats, significantly reducing the Democratic House edge if maps are finalized favorably"
     },
     {
       "id": "poly:0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
@@ -348,29 +348,6 @@
       "watch_item": "Whether PAS unifies early behind a single consensus candidate—if Grosu or Recean locks up the pro-EU lane before 2027, Stoianoglo's path narrows significantly"
     },
     {
-      "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
-      "cache_key": "91aa3a9d2f154f2ef6e186ce",
-      "title": "2026 2026 Midterms: Congress Balance of Power?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxbalancepowercombo/congress-balance-of-power-combo/kxbalancepowercombo-27feb",
-      "category": "Politics",
-      "generated_at": "2026-05-02T14:56:23.654011+00:00",
-      "action": "SELL_YES",
-      "choice": "R-House, R-Senate",
-      "fair_probability": 0.12,
-      "market_probability": 0.185,
-      "edge_bps": 650.0,
-      "confidence": "high",
-      "headline": "Democrats Favored to Sweep Congress in 2026 — Market Underpricing the Blue Wave",
-      "summary": "A D+10 generic ballot lead and record GOP House retirements make Democratic House control near-certain (~85%), while Senate control is a genuine coin flip (~51-52% Dem), creating a combined ~47% chance of a full Democratic sweep — slightly above the market's 44.5%.",
-      "why": [
-        "Generic ballot polling shows Democrats leading by ~10 points, historically consistent with a strong House wave",
-        "A record 37 Republican House retirements are opening up vulnerable seats across the map",
-        "Republican full-control scenario (R-House, R-Senate) is the clearest mispricing at 18.5% vs. a fair value near 12%"
-      ],
-      "watch_item": "Toss-up Senate races in the next six months — an economic shock or major scandal could swing the roughly 50/50 Senate picture decisively in either direction"
-    },
-    {
       "id": "kalshi:KXIPOSPACEX",
       "cache_key": "3755ee00d8383ce8ea6381a9",
       "title": "When will SpaceX officially announce an IPO?",
@@ -394,27 +371,27 @@
       "watch_item": "A severe market downturn (e.g., tariff escalation or recession fears) that could freeze the IPO window and push pricing past July"
     },
     {
-      "id": "kalshi:KXNEXTLABORSEC-29",
-      "cache_key": "5c5cc0412e8e8d323632b3d7",
-      "title": "Who will be Trump's next Secretary of Labor?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxnextlaborsec/next-labor-sec/kxnextlaborsec-29",
-      "category": "Politics",
-      "generated_at": "2026-04-30T17:09:25.452041+00:00",
-      "action": "SELL_YES",
-      "choice": "Glenn Youngkin",
-      "fair_probability": 0.03,
-      "market_probability": 0.08,
-      "edge_bps": 500.0,
+      "id": "poly:0x22014d44b787385b7baddb2b9d56cdcf5904fd7783b83c28403962dd71e51a51",
+      "cache_key": "b8ea29ff2ecc33db5d35e917",
+      "title": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 22, 2026?",
+      "venue": "polymarket",
+      "market_url": "https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by#event-detail-accordion-item-2119227-will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
+      "category": "",
+      "generated_at": "2026-05-06T06:58:53.209922+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.14,
+      "market_probability": 0.185,
+      "edge_bps": 450.0,
       "confidence": "medium",
-      "headline": "Glenn Youngkin Overpriced for Labor Secretary at 8%",
-      "summary": "With the Labor Secretary seat vacant since late April 2026 and acting Secretary Keith Sonderling holding the post, the market is overvaluing Glenn Youngkin's chances at 8% — reporting indicates White House frustration with Youngkin, and he has no labor policy background.",
+      "headline": "Trump Blockade of Hormuz Unlikely to Be Lifted in Next 16 Days",
+      "summary": "With Trump explicitly confirming the Strait of Hormuz blockade 'remains in full force and effect' as of May 5-6 and major preconditions for a deal still unresolved, a formal lifting announcement by May 22 faces steep structural barriers despite some diplomatic momentum.",
       "why": [
-        "Reports indicate White House friction with Youngkin over Virginia redistricting disputes",
-        "Youngkin has no meaningful labor policy background or credible links to the role",
-        "Acting Secretary Sonderling holds the incumbent advantage and business community support"
+        "Trump publicly reaffirmed the blockade is active just days ago, even while touting 'Great Progress' on Iran talks",
+        "Key preconditions — especially Iran's nuclear concessions — remain far from resolution with only 16 days left",
+        "Active military hostilities in the Strait and a cancelled diplomatic trip suggest talks may be stalling"
       ],
-      "watch_item": "Any signal that Trump is formally considering Youngkin for a Cabinet role despite reported tensions would invalidate the thesis"
+      "watch_item": "Any surprise Trump social media post or White House announcement signaling an imminent Iran deal framework — his unpredictable style means rapid reversals can't be ruled out"
     },
     {
       "id": "kalshi:KXCLAUDE5-27",
@@ -507,6 +484,29 @@
         "The market's total probabilities sum to ~162%, systematically overpricing long-shot candidates and compressing the frontrunner's edge"
       ],
       "watch_item": "If Kash Patel — reportedly on thin ice but not listed in this market — departs first, it would delay resolution and tie up capital without paying out"
+    },
+    {
+      "id": "kalshi:KXMOONMAN-31",
+      "cache_key": "1003739cba4fed4fe4df37a0",
+      "title": "Which country will be the next to send humans to the Moon?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxmoonman/manned-mission-to-the-moon/kxmoonman-31",
+      "category": "Science and Technology",
+      "generated_at": "2026-05-05T13:58:28.930368+00:00",
+      "action": "BUY_YES",
+      "choice": "United States",
+      "fair_probability": 0.5,
+      "market_probability": 0.465,
+      "edge_bps": 350.0,
+      "confidence": "low",
+      "headline": "United States Underpriced as Next to Land Humans on the Moon",
+      "summary": "With Artemis II successfully completed in April 2026 and two parallel lunar lander programs reducing risk, the US at 46.5% is modestly underpriced against a fair value near 50% to be the next country to put humans on the Moon.",
+      "why": [
+        "Artemis II proved out the SLS/Orion system, giving real momentum toward a crewed landing by 2028-2029",
+        "NASA's dual-vendor lander strategy (SpaceX and Blue Origin) reduces single-point-of-failure risk",
+        "China's 2030 target relies entirely on unflown hardware with no backup timeline"
+      ],
+      "watch_item": "Progress on SpaceX Starship orbital refueling demonstrations — sustained delays here would push the US landing well past 2028 and narrow the edge"
     },
     {
       "id": "kalshi:KXSAVEACT-27-JAN04",
