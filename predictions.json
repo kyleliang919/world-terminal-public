@@ -1,75 +1,52 @@
 {
-  "generated_at": "2026-05-07T12:44:36+00:00",
+  "generated_at": "2026-05-12T17:41:13+00:00",
   "source_count": 24,
   "cards": [
     {
-      "id": "kalshi:KXLEADERSOUT-27JAN01",
-      "cache_key": "78394dfdd20e2087c0d8a10f",
-      "title": "Which world leaders will leave office in 2026?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxleadersout/world-leaders-out-this-year/kxleadersout-27jan01",
-      "category": "Politics",
-      "generated_at": "2026-05-01T06:23:33.886581+00:00",
-      "action": "SELL_YES",
-      "choice": "Miguel Díaz-Canel",
-      "fair_probability": 0.18,
-      "market_probability": 0.585,
-      "edge_bps": 4050.0,
-      "confidence": "high",
-      "headline": "Cuba's Díaz-Canel Wildly Overpriced to Leave Office in 2026",
-      "summary": "The market prices Díaz-Canel at a 58.5% chance of leaving office this year, but with no democratic mechanism to remove him and his explicit refusal to step down, the fair probability is closer to 18% — a massive mispricing.",
-      "why": [
-        "Díaz-Canel has publicly stated he will not resign, and Cuba's single-party system has no pathway for forced removal",
-        "Cuba's authoritarian precedent is clear: Fidel Castro held power for 49 years without being ousted",
-        "No credible internal opposition, military threat, or external regime-change effort is currently in play"
-      ],
-      "watch_item": "A sudden health crisis, internal Communist Party power struggle, or dramatic escalation of U.S.-Cuba tensions could shift the calculus"
-    },
-    {
-      "id": "kalshi:KXTRUMPCHINA-26",
-      "cache_key": "54cb5d021026dfe0ab7411f0",
-      "title": "When will Trump visit China?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxtrumpchina/when-will-trump-visit-china/kxtrumpchina-26",
-      "category": "Politics",
-      "generated_at": "2026-05-01T14:26:36.921285+00:00",
-      "action": "BUY_YES",
-      "choice": "Before May 15, 2026",
-      "fair_probability": 0.82,
-      "market_probability": 0.53,
-      "edge_bps": 2900.0,
-      "confidence": "high",
-      "headline": "Trump's China Visit Confirmed for May 14–15 — Market Severely Underpricing 'Before May 15'",
-      "summary": "Both the White House and China's foreign ministry have officially confirmed a state visit for May 14–15, 2026, with active diplomatic preparations underway. The 'Before May 15' contract at 53% dramatically underprices what is now a confirmed, imminent trip just days away.",
-      "why": [
-        "State visit officially confirmed by both governments for May 14–15, with high-level prep calls already happening",
-        "The Iran ceasefire that caused the original March postponement is holding, removing the key prior disruption risk",
-        "Market at 53% implies a coin flip for an event that is actively scheduled and 13 days out — roughly 29 points of edge"
-      ],
-      "watch_item": "Any sudden geopolitical crisis — such as an Iran flare-up, Taiwan escalation, or diplomatic breakdown over trade terms — that could force a second postponement"
-    },
-    {
-      "id": "kalshi:KXROBOTMARS-35",
-      "cache_key": "b6156437acffae2b0677b3d4",
-      "title": "Will a humanoid robot walk on Mars before a human does?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxrobotmars/humanoid-robot-on-mars/kxrobotmars-35",
-      "category": "Science and Technology",
-      "generated_at": "2026-05-02T04:07:19.507043+00:00",
-      "action": "BET_NO",
+      "id": "poly:0x5e5482b1e2afa7bed0b9a0c3c8ad33a83dd6cc6d649666cdf1977be64c42c82a",
+      "cache_key": "c9165813dc521b28896bdc6e",
+      "title": "Epstein suicide note released by May 8?",
+      "venue": "polymarket",
+      "market_url": "https://polymarket.com/event/epstein-suicide-note-released-by#event-detail-accordion-item-2128535-epstein-suicide-note-released-by-may-8",
+      "category": "",
+      "generated_at": "2026-05-12T06:55:22.269820+00:00",
+      "action": "BET_YES",
       "choice": null,
-      "fair_probability": 0.22,
-      "market_probability": 0.4705,
-      "edge_bps": 2505.0,
+      "fair_probability": 0.95,
+      "market_probability": 0.0005,
+      "edge_bps": 9495.0,
       "confidence": "medium",
-      "headline": "Humanoid Robot on Mars by 2035? Market Overprices a Near-Impossible Chain of Firsts",
-      "summary": "The market prices a humanoid robot walking on Mars before 2035 at ~47%, but the unprecedented chain of technological achievements required — an untested interplanetary Starship, a space-hardened humanoid robot, and successful Mars landing and deployment — makes fair value closer to 22%.",
+      "headline": "Epstein Suicide Note Was Released Before May 8 Deadline",
+      "summary": "A federal judge unsealed a purported Epstein suicide note on May 6-7, 2026, with wall-to-wall coverage from major outlets including NYT, AP, BBC, and CNN — meeting the 'credibly reported' threshold well before the May 8 deadline.",
       "why": [
-        "No humanoid robot has ever operated on any extraterrestrial surface, and space-hardening one for Mars conditions requires years beyond current Earth prototypes",
-        "Starship hasn't completed orbital refueling or any Mars-capable mission, with only 3 realistic Mars transfer windows left (2028-29, 2031, 2033)",
-        "Historical Mars landing success rates hover around 50%, and ambitious space timelines consistently slip 3-5x from initial promises"
+        "Federal judge publicly released the note 1-2 days before the deadline",
+        "Every major news outlet (NYT, AP, BBC, CNN, NPR, Time, Axios) reported it as a suicide/goodbye note",
+        "Resolution criteria require only 'credibly reported' release — not full authentication"
       ],
-      "watch_item": "SpaceX achieving successful orbital refueling and a Mars-bound Starship demonstration flight by 2028 would significantly shift the odds upward"
+      "watch_item": "The market's near-zero YES price despite overwhelming evidence suggests a possible resolution interpretation issue — watch whether operators define 'suicide note' as requiring connection to Epstein's actual August 2019 death rather than his earlier July attempt."
+    },
+    {
+      "id": "kalshi:KXHORMUZWEEKLY-26MAY10",
+      "cache_key": "7ef296bc0d78ec1c4cf88643",
+      "title": "Traffic through the Strait of Hormuz? (5/4 - 5/10)",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxhormuzweekly/traffic-through-the-strait-of-hormuz/kxhormuzweekly-26may10",
+      "category": "Politics",
+      "generated_at": "2026-05-09T05:11:28.073675+00:00",
+      "action": "SELL_YES",
+      "choice": "Above 40",
+      "fair_probability": 0.2,
+      "market_probability": 0.615,
+      "edge_bps": 4150.0,
+      "confidence": "high",
+      "headline": "Strait of Hormuz Traffic Far Below Market Expectations Amid Iran-US Conflict",
+      "summary": "With only 2-7 ships transiting daily versus the pre-conflict norm of 100+, the market is dramatically overpricing the likelihood of weekly traffic exceeding 40 vessels during May 4-10.",
+      "why": [
+        "Actual daily transits are 2-7 ships due to ongoing attacks, insurance restrictions, and shipowner wariness — far below the ~6/day needed to hit 40",
+        "Iran's May 6 safe passage announcement has not meaningfully restored traffic, and new US strikes on May 8 reinforce the hostile environment",
+        "Only a few days remain in the measurement window, leaving almost no time for a meaningful traffic surge"
+      ],
+      "watch_item": "A sudden ceasefire or diplomatic breakthrough that triggers a rush of queued vessels through the strait before May 10"
     },
     {
       "id": "kalshi:KXHORMUZNORM-26MAR17",
@@ -78,21 +55,21 @@
       "venue": "kalshi",
       "market_url": "https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
       "category": "Politics",
-      "generated_at": "2026-05-07T03:05:33.994022+00:00",
+      "generated_at": "2026-05-10T02:39:31.361649+00:00",
       "action": "SELL_YES",
-      "choice": "Before Jun 1, 2026",
-      "fair_probability": 0.1,
-      "market_probability": 0.275,
-      "edge_bps": 1750.0,
+      "choice": "Before Jul 1, 2026",
+      "fair_probability": 0.25,
+      "market_probability": 0.505,
+      "edge_bps": 2550.0,
       "confidence": "high",
-      "headline": "Strait of Hormuz Recovery Before June 1 Is Highly Unlikely",
-      "summary": "With traffic at just 5-20 ships per day versus the 60+ needed for normalization, and only 24 days remaining, structural barriers make a before-June recovery nearly impossible—yet the market prices it at 27.5%.",
+      "headline": "Strait of Hormuz Traffic Nowhere Near Normal — July Recovery Heavily Overpriced",
+      "summary": "With only 5-20 ships transiting daily versus the 60+ needed for resolution, no diplomatic deal signed, and active military tensions ongoing, the market's ~50% chance of normalization before July 1 dramatically overstates reality.",
       "why": [
-        "Current traffic is roughly 70-90% below the threshold needed to declare normalization",
-        "Insurance re-rating, mine clearance, and confidence restoration take weeks to months even after a deal is signed",
-        "Expert forecasts place the median recovery date around September 2025 at the earliest"
+        "Current traffic is roughly 75-90% below normal levels with no signed agreement to restore passage",
+        "Even an optimistic scenario requires a deal plus 4-6 weeks for insurance, mine clearance, and confidence to rebuild",
+        "Forecasting consensus places median normalization around mid-September 2026, months after this contract expires"
       ],
-      "watch_item": "A signed US-Iran comprehensive agreement with immediate mutual de-escalation and verified safe passage could accelerate the timeline dramatically"
+      "watch_item": "Any announced US-Iran deal or dramatic surge in daily ship transits above 40 vessels would signal faster-than-expected recovery"
     },
     {
       "id": "poly:0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
@@ -187,6 +164,29 @@
       "watch_item": "Whether Harris formally enters the 2028 race — strong polls mean nothing if she decides not to run"
     },
     {
+      "id": "kalshi:KXUSAEXPANDTERRITORY",
+      "cache_key": "5fdad742dd2050602d022688",
+      "title": "Will the US acquire any new territory?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxusaexpandterritory/will-the-us-acquire-new-territory/kxusaexpandterritory",
+      "category": "Politics",
+      "generated_at": "2026-05-12T17:27:13.473073+00:00",
+      "action": "SELL_YES",
+      "choice": "Before Jan 21, 2029",
+      "fair_probability": 0.24,
+      "market_probability": 0.355,
+      "edge_bps": 1150.0,
+      "confidence": "medium",
+      "headline": "US Territory Acquisition Overpriced — Sell the Hype",
+      "summary": "The market prices a 35.5% chance the US acquires new territory before January 2029, but current negotiations focus on military bases rather than sovereignty, and key counterparties explicitly reject territorial transfer—putting fair value closer to 24%.",
+      "why": [
+        "US-Denmark/Greenland talks center on military base access, not sovereignty transfer—Greenland's leader calls sovereignty 'non-negotiable'",
+        "Venezuela '51st state' rhetoric has zero legal mechanism or pathway to actual acquisition",
+        "Denmark's incoming right-leaning government is less likely, not more, to cede Greenland"
+      ],
+      "watch_item": "Any shift in resolution criteria interpretation—if 'gains control' could include new military base sovereignty designations (Guantanamo-style), the probability rises significantly"
+    },
+    {
       "id": "kalshi:KXIMPEACH-29-JAN20",
       "cache_key": "118ff636a31923d63cc3f351",
       "title": "Will President Trump be impeached during his term?",
@@ -256,6 +256,52 @@
       "watch_item": "Any serious movement toward proportional representation or electoral reform, which could transform Green prospects — though this remains highly unlikely before the next election"
     },
     {
+      "id": "kalshi:KXNEWOUTBREAKHANTA-26",
+      "cache_key": "079e0f6ea98ab02ea75e8f74",
+      "title": "Will WHO declare Hantavirus a Public Health Emergency of International Concern this Year?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnewoutbreakhanta/hantavirus-outbreak/kxnewoutbreakhanta-26",
+      "category": "Science and Technology",
+      "generated_at": "2026-05-12T17:35:50.078757+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.09,
+      "market_probability": 0.179,
+      "edge_bps": 890.0,
+      "confidence": "medium",
+      "headline": "Hantavirus PHEIC Declaration Highly Unlikely Despite Cruise Ship Cluster",
+      "summary": "Despite a multi-country hantavirus cluster linked to a cruise ship generating headlines, the WHO has explicitly assessed the risk as 'low' and has not convened an Emergency Committee—making a Public Health Emergency of International Concern declaration this year very improbable.",
+      "why": [
+        "WHO explicitly rates risk as 'low' with no Emergency Committee convened—a necessary precursor to any PHEIC declaration",
+        "Only ~7 confirmed cases from a single cluster, and hantavirus has very limited person-to-person transmission capability",
+        "PHEIC declarations are historically rare (7-8 in 20 years), requiring sustained international spread that hantavirus biology makes unlikely"
+      ],
+      "watch_item": "Any evidence of sustained community transmission unlinked to the cruise ship cluster, or WHO convening an Emergency Committee, would significantly change the outlook"
+    },
+    {
+      "id": "kalshi:KXNEXTAG-29",
+      "cache_key": "4e7e3e9f921606359139b631",
+      "title": "Who will be Trump's next Attorney General?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextag/next-ag/kxnextag-29",
+      "category": "Politics",
+      "generated_at": "2026-05-12T17:34:14.209965+00:00",
+      "action": "SELL_YES",
+      "choice": "Lee Zeldin",
+      "fair_probability": 0.14,
+      "market_probability": 0.225,
+      "edge_bps": 850.0,
+      "confidence": "medium",
+      "headline": "Lee Zeldin Overpriced for Attorney General — No Evidence He's in the Running",
+      "summary": "Todd Blanche is currently serving as Acting AG and receiving favorable media coverage framing his tenure as an audition for the permanent role. Lee Zeldin, priced at 22.5%, has zero sourced reporting linking him to the AG position while actively leading the EPA.",
+      "why": [
+        "Zeldin is running the EPA with no credible reporting of an AG move — fair value closer to 14%",
+        "Blanche is the incumbent Acting AG, running press conferences and DOJ operations daily",
+        "Major outlets are framing Blanche's stint as an 'audition,' suggesting Trump is seriously considering him"
+      ],
+      "watch_item": "Whether Trump formally nominates Blanche before the Vacancies Act ~210-day clock forces a decision, or pivots to an entirely different candidate"
+    },
+    {
       "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
       "cache_key": "91aa3a9d2f154f2ef6e186ce",
       "title": "2026 2026 Midterms: Congress Balance of Power?",
@@ -277,52 +323,6 @@
         "Senate individual race pricing has tipped slightly toward Democrats"
       ],
       "watch_item": "Republican redistricting gains in key states could net 8-13 seats, significantly reducing the Democratic House edge if maps are finalized favorably"
-    },
-    {
-      "id": "poly:0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
-      "cache_key": "4c2dbfb010332256f85ed39c",
-      "title": "Strait of Hormuz traffic returns to normal by end of May?",
-      "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
-      "category": "",
-      "generated_at": "2026-05-01T17:49:22.391083+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.12,
-      "market_probability": 0.195,
-      "edge_bps": 750.0,
-      "confidence": "high",
-      "headline": "Strait of Hormuz Traffic Unlikely to Normalize by End of May",
-      "summary": "With daily ship transits running at roughly 6–20 vessels versus the ~60 needed to meet the market's threshold, and an active US-Iran military confrontation showing no signs of resolution, a return to normal traffic by May 31 faces overwhelming obstacles.",
-      "why": [
-        "Current traffic is 8–9x below the required threshold, with only 30 days left and no historical precedent for such rapid recovery from an active blockade",
-        "War-risk insurance premiums have surged from 0.25% to 5% of hull value, creating a structural drag that would persist even after a hypothetical ceasefire",
-        "No deal framework exists between the US and Iran, and expert forecasts (including major energy and economic analysts) project no full reopening until August at the earliest"
-      ],
-      "watch_item": "A sudden comprehensive US-Iran diplomatic breakthrough — Iran has submitted new negotiation proposals and previously briefly reopened the strait, showing that rapid shifts remain possible even if unlikely"
-    },
-    {
-      "id": "kalshi:KXSCOURT-29",
-      "cache_key": "d89f011d34cc2f0456b7d752",
-      "title": "Who will be the next Supreme Court justice?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxscourt/next-scotus-justice/kxscourt-29",
-      "category": "Politics",
-      "generated_at": "2026-05-01T04:12:19.032854+00:00",
-      "action": "SELL_YES",
-      "choice": "Ron DeSantis",
-      "fair_probability": 0.03,
-      "market_probability": 0.105,
-      "edge_bps": 750.0,
-      "confidence": "high",
-      "headline": "Ron DeSantis at 10.5% for Next SCOTUS Justice Is a Clear Overprice",
-      "summary": "With no Supreme Court vacancy in sight and DeSantis lacking judicial experience or credible shortlist placement, the market is pricing him far above his realistic ~3% chance of becoming the next justice.",
-      "why": [
-        "No SCOTUS vacancy exists — both Alito and Thomas have denied 2026 retirement plans",
-        "DeSantis has zero judicial experience and appears on no credible insider shortlists, while proven judges like Ho and Oldham dominate frontrunner reporting",
-        "The market is oversubscribed at ~113% total, systematically inflating speculative long-shot names"
-      ],
-      "watch_item": "Any credible reporting of an Alito or Thomas retirement, or Trump publicly floating DeSantis as a potential nominee, would dramatically reshape this market"
     },
     {
       "id": "kalshi:KXPRESOUTCOME-28NOV07",
