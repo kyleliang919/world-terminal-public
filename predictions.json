@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:44:16+00:00",
+  "generated_at": "2026-05-14T21:40:48+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -95,6 +95,52 @@
       "watch_item": "Whether the prior week's surprising resolution below 20 ships repeats — a sudden escalation or full blockade enforcement could halt the current trickle of traffic"
     },
     {
+      "id": "kalshi:KXCANAL-29",
+      "cache_key": "3ad95a3fcd48cb6269b792e5",
+      "title": "Will Trump take back the Panama Canal?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxcanal/panama-canal-retaken/kxcanal-29",
+      "category": "Politics",
+      "generated_at": "2026-05-13T15:31:11.854659+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.12,
+      "market_probability": 0.32,
+      "edge_bps": 2000.0,
+      "confidence": "medium",
+      "headline": "Panama Canal 'Takeover' Market Overpriced at 32%",
+      "summary": "Despite Trump's persistent rhetoric about reclaiming the Panama Canal, the structural barriers to actual US government control remain enormous, making the market significantly overpriced relative to a fair probability around 12%.",
+      "why": [
+        "Panama firmly refuses any sovereignty transfer, invoking the 1977 treaty and international law",
+        "Resolution requires US government control—private US companies buying port stakes wouldn't count",
+        "No historical precedent for forcible seizure of sovereign territory in the modern era, and Congress shows no appetite for it"
+      ],
+      "watch_item": "Any negotiated 'security agreement' giving the US an official operational role at the canal could blur the resolution line"
+    },
+    {
+      "id": "kalshi:KXTRUMPMENTION-26MAY12",
+      "cache_key": "2c38dcea0304f8df50f10483",
+      "title": "What will Trump say during the bilateral with China?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpmention/what-will-trump-say/kxtrumpmention-26may12",
+      "category": "Mentions",
+      "generated_at": "2026-05-13T15:58:54.843879+00:00",
+      "action": "BUY_YES",
+      "choice": "Tariff",
+      "fair_probability": 0.72,
+      "market_probability": 0.525,
+      "edge_bps": 1950.0,
+      "confidence": "high",
+      "headline": "Trump Almost Certainly Says 'Tariff' During China Bilateral — Market Underpricing It",
+      "summary": "With tariffs confirmed as a central agenda item at the Trump-Xi summit in Beijing and Trump's well-documented habit of using the word compulsively, the market at 52.5% significantly underprices the ~72% fair probability he says 'tariff' during the bilateral meeting.",
+      "why": [
+        "Trade/tariffs are explicitly central to the summit agenda per all major outlets",
+        "'Tariff' is Trump's signature trade vocabulary — he uses it reflexively in any commerce discussion",
+        "Market resolution covers the full bilateral meeting (inclusive of greeting), giving multiple opportunities for the word to appear"
+      ],
+      "watch_item": "Whether bilateral remarks are open to press or conducted behind closed doors, which could affect resolution if no public transcript is available"
+    },
+    {
       "id": "kalshi:KXHORMUZNORM-26MAR17",
       "cache_key": "a69aa34f0f9c40fd8e19c265",
       "title": "When will traffic at the Strait of Hormuz return to normal?",
@@ -118,27 +164,27 @@
       "watch_item": "Any sudden US-Iran diplomatic breakthrough or unilateral military corridor operation could rapidly shift the timeline"
     },
     {
-      "id": "poly:0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "cache_key": "6f074235da3f4a8b8f4adc5c",
-      "title": "US x Iran permanent peace deal by May 31, 2026?",
-      "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by#event-detail-accordion-item-1919425-us-x-iran-permanent-peace-deal-by-may-31-2026-333-871",
-      "category": "",
-      "generated_at": "2026-05-03T03:45:21.895780+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.08,
-      "market_probability": 0.225,
-      "edge_bps": 1450.0,
+      "id": "kalshi:KXNEXTUKPM-30",
+      "cache_key": "c36e42628bc33fecb5972a64",
+      "title": "Who will be the next Prime Minister of the UK?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextukpm/next-uk-pm/kxnextukpm-30",
+      "category": "Elections",
+      "generated_at": "2026-05-13T13:57:31.104808+00:00",
+      "action": "SELL_YES",
+      "choice": "Ed Miliband",
+      "fair_probability": 0.05,
+      "market_probability": 0.18,
+      "edge_bps": 1300.0,
       "confidence": "high",
-      "headline": "US-Iran Permanent Peace Deal by May 31 Remains Highly Unlikely",
-      "summary": "Despite active indirect negotiations through Pakistani mediators, the fundamental impasse between the US and Iran on nuclear and sanctions sequencing—combined with hostile public rhetoric from both sides—makes a formal permanent peace deal within 28 days extremely improbable.",
+      "headline": "Ed Miliband Massively Overpriced at 18% for Next UK PM",
+      "summary": "With 80+ Labour MPs calling for Starmer's resignation, a leadership contest is brewing—but Ed Miliband, a failed former leader absent from all credible contender lists, has no realistic path to Number 10 at his current market price.",
       "why": [
-        "Trump publicly stated he's 'not satisfied' with Iran's latest proposal and 'can't imagine it would be acceptable'",
-        "Iran's military headquarters warned that war resumption is likely, signaling no imminent breakthrough",
-        "The resolution requires a formal PERMANENT deal confirmed by both governments—an extraordinarily high bar given no US-Iran peace deal has been reached since 1979"
+        "Miliband doesn't appear on any serious media or bookmaker shortlist for the Labour leadership",
+        "As a failed former leader who lost the 2015 election, he faces massive credibility barriers within the party",
+        "Genuine contenders like Angela Rayner (Deputy PM) and Wes Streeting are far better positioned"
       ],
-      "watch_item": "Any announcement of direct, high-level US-Iran talks or a surprise Trump statement claiming a deal framework—back-channel negotiations may be further along than public reporting suggests"
+      "watch_item": "If frontrunner candidates like Rayner, Streeting, and Burnham damage each other in a drawn-out contest, Miliband could theoretically emerge as a compromise—watch for any endorsements or media positioning"
     },
     {
       "id": "kalshi:KXECONPATH-26",
@@ -164,29 +210,6 @@
       "watch_item": "A sharp escalation of the Iran conflict or sudden cascade of government layoffs and tariff shocks could break the labor market faster than historical patterns suggest — watch weekly jobless claims for early warning signs."
     },
     {
-      "id": "kalshi:KXPRESMATCHUP-28NOV07",
-      "cache_key": "e10fa2482b271db2cf5c77b3",
-      "title": "2028 Presidential matchup",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxpresmatchup/2028-presidential-matchup/kxpresmatchup-28nov07",
-      "category": "Elections",
-      "generated_at": "2026-05-03T20:11:31.714172+00:00",
-      "action": "BUY_YES",
-      "choice": "Kamala Harris v. JD Vance",
-      "fair_probability": 0.155,
-      "market_probability": 0.039,
-      "edge_bps": 1160.0,
-      "confidence": "high",
-      "headline": "Harris vs. Vance Is Massively Underpriced at 4¢",
-      "summary": "Kamala Harris leads 2028 Democratic primary polls at 50%, yet the market prices a Harris-Vance matchup at just 3.9¢ — roughly 4x below fair value when combined with Vance's strong GOP frontrunner status.",
-      "why": [
-        "Harris leads Dem primary polls at 50% but the market implies only ~6% chance she wins the nomination — a huge disconnect",
-        "Vance holds a commanding 37-42% GOP lead with strong VP incumbency advantage, putting his nomination odds near 47%",
-        "Newsom and Rubio matchups appear overpriced, reflecting stale conventional wisdom that hasn't caught up to Harris's polling surge"
-      ],
-      "watch_item": "Whether Harris formally enters the 2028 race — strong polls mean nothing if she decides not to run"
-    },
-    {
       "id": "kalshi:KXUSAEXPANDTERRITORY",
       "cache_key": "5fdad742dd2050602d022688",
       "title": "Will the US acquire any new territory?",
@@ -208,52 +231,6 @@
         "Denmark's incoming right-leaning government is less likely, not more, to cede Greenland"
       ],
       "watch_item": "Any shift in resolution criteria interpretation—if 'gains control' could include new military base sovereignty designations (Guantanamo-style), the probability rises significantly"
-    },
-    {
-      "id": "kalshi:KXIMPEACH-29-JAN20",
-      "cache_key": "118ff636a31923d63cc3f351",
-      "title": "Will President Trump be impeached during his term?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kximpeach/president-impeached/kximpeach-29",
-      "category": "Politics",
-      "generated_at": "2026-05-03T16:28:05.535718+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.6,
-      "market_probability": 0.71,
-      "edge_bps": 1100.0,
-      "confidence": "medium",
-      "headline": "Trump Impeachment Market Looks Overpriced at 71%",
-      "summary": "While Democrats are favored to retake the House in 2026 and would face strong pressure to impeach, the market is pricing in both a midterm flip and a subsequent impeachment vote with too much certainty. A fair probability closer to 60% suggests meaningful edge on the NO side.",
-      "why": [
-        "Democrats are favored but far from certain to win the House in 2026 (~60-65%), and impeachment is nearly impossible without a majority",
-        "Even with a Democratic majority, moderate swing-district members may resist impeachment as politically toxic ahead of 2028",
-        "The market appears to be overweighting the most likely scenario (Dems win → impeach) without adequately discounting the real chance Democrats don't flip the House at all"
-      ],
-      "watch_item": "2026 midterm polling and House generic ballot trends — if Democrats build a commanding lead, the YES case strengthens significantly; if the race tightens, NO becomes even more attractive"
-    },
-    {
-      "id": "kalshi:KXNEXTUKPM-30",
-      "cache_key": "f6bb2d294679fb10594023ae",
-      "title": "Who will be the next Prime Minister of the UK?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxnextukpm/next-uk-pm/kxnextukpm-30",
-      "category": "Elections",
-      "generated_at": "2026-05-13T06:21:07.046325+00:00",
-      "action": "SELL_YES",
-      "choice": "Ed Miliband",
-      "fair_probability": 0.04,
-      "market_probability": 0.145,
-      "edge_bps": 1050.0,
-      "confidence": "high",
-      "headline": "Ed Miliband Massively Overpriced for Next UK PM",
-      "summary": "Ed Miliband is trading at 14.5% to become the next UK Prime Minister despite not appearing on any serious contender list and having already failed as Labour leader in 2015—fair value is around 4%.",
-      "why": [
-        "No major political outlet or insider names Miliband as a realistic leadership contender",
-        "He already lost a general election as Labour leader in 2015, making a comeback extremely unlikely",
-        "Stronger candidates like Streeting, Rayner, and Burnham dominate serious speculation"
-      ],
-      "watch_item": "Any credible report of Miliband actively building support among Labour MPs would challenge this call"
     },
     {
       "id": "kalshi:KXOAIANTH-40",
@@ -348,6 +325,29 @@
       "watch_item": "Whether Trump formally nominates Blanche before the Vacancies Act ~210-day clock forces a decision, or pivots to an entirely different candidate"
     },
     {
+      "id": "kalshi:KXFEDDECISION-27OCT",
+      "cache_key": "c7c6d475559a02c88ad0edc8",
+      "title": "Fed decision in Oct 2027?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-27oct",
+      "category": "Economics",
+      "generated_at": "2026-05-13T14:04:33.525539+00:00",
+      "action": "BUY_YES",
+      "choice": "Cut >25bps",
+      "fair_probability": 0.13,
+      "market_probability": 0.055,
+      "edge_bps": 750.0,
+      "confidence": "medium",
+      "headline": "Oct 2027 Large Rate Cut Underpriced Given Recession Tail Risk",
+      "summary": "The market prices a >25bps Fed cut in October 2027 at just 5.5%, but over a 17-month horizon, recession risk and historical easing-cycle patterns justify roughly 13% probability — offering meaningful edge on a cheap tail-risk bet.",
+      "why": [
+        "17-month horizon creates substantial recession probability that warrants larger cuts",
+        "Contract prices across all outcomes sum to only 83.5%, structurally underpricing every YES position",
+        "Major banks still forecast rate cuts in H2 2027 despite current hawkish market pricing"
+      ],
+      "watch_item": "Whether the Iran/Hormuz energy crisis persists or resolves — sustained high inflation would keep the Fed in hold/hike mode, eliminating cut scenarios"
+    },
+    {
       "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
       "cache_key": "91aa3a9d2f154f2ef6e186ce",
       "title": "2026 2026 Midterms: Congress Balance of Power?",
@@ -369,29 +369,6 @@
         "Senate individual race pricing has tipped slightly toward Democrats"
       ],
       "watch_item": "Republican redistricting gains in key states could net 8-13 seats, significantly reducing the Democratic House edge if maps are finalized favorably"
-    },
-    {
-      "id": "kalshi:KXPRESOUTCOME-28NOV07",
-      "cache_key": "81da3d6824c07f150874dd61",
-      "title": "2028 Presidential race: exact outcome",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxpresoutcome/2028-presidential-election-exact-outcome/kxpresoutcome-28nov07",
-      "category": "Elections",
-      "generated_at": "2026-05-03T20:06:49.888349+00:00",
-      "action": "SELL_YES",
-      "choice": "Gavin Newsom defeats JD Vance",
-      "fair_probability": 0.065,
-      "market_probability": 0.135,
-      "edge_bps": 700.0,
-      "confidence": "medium",
-      "headline": "Newsom vs. Vance at 13.5¢ Is Roughly Double Fair Value",
-      "summary": "The market significantly overprices Gavin Newsom as the Democratic nominee despite Kamala Harris surging to 50% in early 2028 primary polling. A Newsom-defeats-Vance contract at 13.5¢ implies ~36% Dem nomination odds for Newsom that current data doesn't support.",
-      "why": [
-        "Harris leads Newsom in Democratic primary polling (50% vs. trailing), yet the market prices Newsom as the clear frontrunner",
-        "Compound probability math (nomination × opponent's nomination × general election win) caps this contract's fair value around 6.5¢",
-        "JD Vance's 37-42% GOP primary lead makes him the likely Republican nominee, but the Democratic side of this matchup is mispriced"
-      ],
-      "watch_item": "Future Democratic primary polls — if Newsom consolidates institutional support and overtakes Harris, the market pricing becomes more justified"
     },
     {
       "id": "kalshi:KXMOLDOVAPRES-28",
@@ -553,6 +530,29 @@
         "China's 2030 target relies entirely on unflown hardware with no backup timeline"
       ],
       "watch_item": "Progress on SpaceX Starship orbital refueling demonstrations — sustained delays here would push the US landing well past 2028 and narrow the edge"
+    },
+    {
+      "id": "kalshi:KXFEDDECISION-26JUN",
+      "cache_key": "7ccd15b7b363c53a99de5455",
+      "title": "Fed decision in Jun 2026?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jun",
+      "category": "Economics",
+      "generated_at": "2026-05-13T14:13:36.557422+00:00",
+      "action": "SELL_YES",
+      "choice": "Cut 25bps",
+      "fair_probability": 0.015,
+      "market_probability": 0.025,
+      "edge_bps": 100.0,
+      "confidence": "medium",
+      "headline": "Fed Almost Certain to Hold Rates in June 2026 — Market Priced Fairly",
+      "summary": "With inflation running at 3.8% due to elevated energy costs from the Iran conflict and major banks pushing their first-cut forecasts to late 2026 or beyond, the Fed is overwhelmingly expected to hold rates at its June meeting. The market reflects this accurately, leaving no meaningful trading edge.",
+      "why": [
+        "April CPI hit a 3-year high of 3.8%, eliminating any near-term case for easing",
+        "Goldman Sachs and UBS have pushed first-cut forecasts to December 2026 or later",
+        "The Fed has held steady at all three 2026 meetings with zero signals of a pivot"
+      ],
+      "watch_item": "A sudden financial crisis or rapid de-escalation of the Iran conflict collapsing oil prices could shift the Fed's calculus before June 17"
     }
   ]
 }
