@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T21:40:48+00:00",
+  "generated_at": "2026-05-18T15:06:37+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -187,6 +187,29 @@
       "watch_item": "If frontrunner candidates like Rayner, Streeting, and Burnham damage each other in a drawn-out contest, Miliband could theoretically emerge as a compromise—watch for any endorsements or media positioning"
     },
     {
+      "id": "poly:0x69487ec66303113e2c9125f83de781ba9311656f5f79d811e1153aed5c427fab",
+      "cache_key": "ad94cb355d4af08fd6e59934",
+      "title": "Starmer out by May 19, 2026?",
+      "venue": "polymarket",
+      "market_url": "https://polymarket.com/event/starmer-out-in-2025#event-detail-accordion-item-2251595-starmer-out-by-may-19-2026",
+      "category": "",
+      "generated_at": "2026-05-15T06:15:20.712649+00:00",
+      "action": "BET_YES",
+      "choice": null,
+      "fair_probability": 0.18,
+      "market_probability": 0.055,
+      "edge_bps": 1250.0,
+      "confidence": "medium",
+      "headline": "Starmer Leadership Crisis Underpriced at 5.5% — Fair Value Near 18%",
+      "summary": "With a cabinet-level resignation, ~90 Labour MPs calling for his departure, and historical precedent showing PMs can fall within days once the dam breaks, the market significantly underprices Starmer's exit by May 19 despite his public defiance and the tight 4-day window.",
+      "why": [
+        "Health Secretary Streeting's scathing resignation mirrors the Johnson/Truss endgame pattern where collapse followed within days",
+        "~90 Labour MPs publicly calling for resignation approaches the critical mass that historically forces departures",
+        "Market only requires an announcement of resignation — not the effective date — lowering the bar for resolution"
+      ],
+      "watch_item": "Additional cabinet resignations in the next 48 hours — if more senior ministers follow Streeting, Starmer's position becomes untenable regardless of his stated defiance"
+    },
+    {
       "id": "kalshi:KXECONPATH-26",
       "cache_key": "60cb955c4bc5771089313fd9",
       "title": "State of the economy at the end of 2026",
@@ -254,29 +277,6 @@
         "Anthropic's $900B valuation round signals stronger market confidence and IPO readiness"
       ],
       "watch_item": "OpenAI could be forced into an earlier IPO if capital needs outpace private fundraising capacity or board pressure mounts"
-    },
-    {
-      "id": "kalshi:KXUKPARTY-29",
-      "cache_key": "27a6213e15750c359df02f3d",
-      "title": "Which party will win the next UK general election?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxukparty/uk-elections/kxukparty-29",
-      "category": "Elections",
-      "generated_at": "2026-05-03T20:14:00.924550+00:00",
-      "action": "SELL_YES",
-      "choice": "Green party",
-      "fair_probability": 0.02,
-      "market_probability": 0.1145,
-      "edge_bps": 945.0,
-      "confidence": "high",
-      "headline": "Green Party at 11.5% to Win UK Election Is Wildly Overpriced",
-      "summary": "The market prices the Green Party at roughly 11.5% to win the next UK general election — about 5-6x too high given that first-past-the-post makes a Green victory near-impossible, with the party never having won more than 4 seats.",
-      "why": [
-        "FPTP brutally punishes geographically dispersed parties — Greens poll ~16.5% nationally but translate that into just a handful of seats",
-        "The Greens have never come remotely close to forming a government and lack the concentrated regional base needed under the UK's electoral system",
-        "A fair probability of ~2% versus the market's ~11.5% represents roughly 945 basis points of edge"
-      ],
-      "watch_item": "Any serious movement toward proportional representation or electoral reform, which could transform Green prospects — though this remains highly unlikely before the next election"
     },
     {
       "id": "kalshi:KXNEWOUTBREAKHANTA-26",
