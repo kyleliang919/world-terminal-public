@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T00:05:51+00:00",
+  "generated_at": "2026-05-20T07:04:56+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -210,6 +210,52 @@
       "watch_item": "Additional cabinet resignations in the next 48 hours — if more senior ministers follow Streeting, Starmer's position becomes untenable regardless of his stated defiance"
     },
     {
+      "id": "kalshi:KXTRUMPAPPROVALBELOW-26DEC31",
+      "cache_key": "e4362347873d35aef58cf06f",
+      "title": "How low will Trump's approval rating get before 2027?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpapprovalbelow/how-low-will-trump-s-approval-get-this-year/kxtrumpapprovalbelow-26dec31",
+      "category": "Politics",
+      "generated_at": "2026-05-20T06:44:41.683935+00:00",
+      "action": "BUY_YES",
+      "choice": "Below 36%",
+      "fair_probability": 0.62,
+      "market_probability": 0.505,
+      "edge_bps": 1150.0,
+      "confidence": "medium",
+      "headline": "Trump Approval Likely to Dip Below 36% Before 2027",
+      "summary": "With Trump's approval already at 37-38% in polling aggregates and individual polls reading as low as 34-35%, the market is underpricing the chance that the aggregate drops below 36% over the next 7.5 months.",
+      "why": [
+        "Individual polls (Reuters at 35%, Pew at 34%) have already broken below this threshold — aggregates typically follow",
+        "Iran tensions and cost-of-living concerns are creating sustained downward pressure with no clear positive catalysts ahead",
+        "7.5 months is a long window for the aggregate to hit a minimum, even if it briefly touches 36% before recovering"
+      ],
+      "watch_item": "A de-escalation in Iran or a meaningful economic improvement could reverse the downward trend and prop up the partisan floor above 36%."
+    },
+    {
+      "id": "kalshi:KXRECOGROC-29",
+      "cache_key": "4f3d96400656cbc876753047",
+      "title": "Will Trump recognize Taiwan?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxrecogroc/trump-recognize-taiwan/kxrecogroc-29",
+      "category": "Politics",
+      "generated_at": "2026-05-20T06:24:52.579886+00:00",
+      "action": "SELL_YES",
+      "choice": "Before Jan 20, 2029",
+      "fair_probability": 0.07,
+      "market_probability": 0.185,
+      "edge_bps": 1150.0,
+      "confidence": "high",
+      "headline": "Trump Recognition of Taiwan Remains Extremely Unlikely Despite Market Premium",
+      "summary": "At 18.5%, the market vastly overprices the chance Trump formally recognizes Taiwan before January 2029. His recent diplomacy with China, zero historical precedent since 1979, and catastrophic geopolitical consequences all point to a fair probability near 7%.",
+      "why": [
+        "Trump warned Taiwan against independence during his May 2026 China visit, treating it as a bargaining chip rather than an ally to elevate",
+        "No U.S. president has recognized Taiwan since the One China policy was adopted in 1979—a 46-year base rate of zero",
+        "Formal recognition would risk military conflict with China and severe economic fallout, deterring even the most unconventional leader"
+      ],
+      "watch_item": "A dramatic breakdown in U.S.-China relations—such as a Chinese military move on Taiwan—could force an emergency recognition scenario that currently isn't priced into the fundamentals"
+    },
+    {
       "id": "kalshi:KXUSAEXPANDTERRITORY",
       "cache_key": "5fdad742dd2050602d022688",
       "title": "Will the US acquire any new territory?",
@@ -231,29 +277,6 @@
         "Denmark's incoming right-leaning government is less likely, not more, to cede Greenland"
       ],
       "watch_item": "Any shift in resolution criteria interpretation—if 'gains control' could include new military base sovereignty designations (Guantanamo-style), the probability rises significantly"
-    },
-    {
-      "id": "kalshi:KXOAIANTH-40",
-      "cache_key": "5543e67dcd17968b583542fb",
-      "title": "Will OpenAI or Anthropic IPO first?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxoaianth/open-ai-vs-anthropic/kxoaianth-40",
-      "category": "Financials",
-      "generated_at": "2026-05-05T03:33:51.044871+00:00",
-      "action": "SELL_YES",
-      "choice": "OpenAI",
-      "fair_probability": 0.29,
-      "market_probability": 0.385,
-      "edge_bps": 950.0,
-      "confidence": "medium",
-      "headline": "Anthropic Likely to IPO Before OpenAI — OpenAI Shares Overpriced",
-      "summary": "Anthropic is on track for an October 2026 IPO with clean governance and strong revenue, while OpenAI faces internal delays pushing its listing to 2027. The market is overpricing OpenAI's chances of going public first.",
-      "why": [
-        "Anthropic targeting Oct 2026 IPO with $30B+ revenue and streamlined corporate structure",
-        "OpenAI's CFO pushing IPO to 2027 amid spending concerns and revenue misses",
-        "Anthropic's $900B valuation round signals stronger market confidence and IPO readiness"
-      ],
-      "watch_item": "OpenAI could be forced into an earlier IPO if capital needs outpace private fundraising capacity or board pressure mounts"
     },
     {
       "id": "kalshi:KXNEXTUKPM-30",
@@ -394,29 +417,6 @@
       "watch_item": "Bryce Miller's workload in his first start back from the injured list—a short outing could tax Seattle's bullpen and shift the game's dynamics"
     },
     {
-      "id": "kalshi:KXIPOSPACEX",
-      "cache_key": "3755ee00d8383ce8ea6381a9",
-      "title": "When will SpaceX officially announce an IPO?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxipospacex/when-will-spacex-ipo/kxipospacex",
-      "category": "Economics",
-      "generated_at": "2026-05-03T21:25:56.488877+00:00",
-      "action": "BUY_YES",
-      "choice": "Before Aug 1, 2026",
-      "fair_probability": 0.89,
-      "market_probability": 0.835,
-      "edge_bps": 550.0,
-      "confidence": "medium",
-      "headline": "SpaceX IPO on Track for Summer 2026 — Market Underpricing July Completion",
-      "summary": "SpaceX has confidentially filed its S-1 and is targeting a June roadshow with late-June pricing, making completion before August 1, 2026 highly likely. The market's 83.5% implied probability appears roughly 5.5 percentage points too low given the advanced state of preparations.",
-      "why": [
-        "Confidential S-1 already filed with the SEC as of early April 2026, with a June roadshow and late-June pricing widely reported",
-        "Multiple credible confirmations — including from Elon Musk himself — point to a 2026 IPO, with institutional investors already preparing",
-        "Even accounting for potential regulatory delays or market disruptions, the August 1 deadline provides meaningful buffer beyond the June target"
-      ],
-      "watch_item": "A severe market downturn (e.g., tariff escalation or recession fears) that could freeze the IPO window and push pricing past July"
-    },
-    {
       "id": "kalshi:KXFEDDECISION-26JUL",
       "cache_key": "01f053f01fdbe9eb65f4b5b0",
       "title": "Fed decision in Jul 2026?",
@@ -463,29 +463,6 @@
       "watch_item": "Any surprise Trump social media post or White House announcement signaling an imminent Iran deal framework — his unpredictable style means rapid reversals can't be ruled out"
     },
     {
-      "id": "kalshi:KXCLAUDE5-27",
-      "cache_key": "5e5331580d606939605a0caa",
-      "title": "Will Anthropic release Claude 5 this year?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxclaude5/claude-5-released/kxclaude5-27",
-      "category": "Science and Technology",
-      "generated_at": "2026-05-03T22:03:16.054198+00:00",
-      "action": "BET_YES",
-      "choice": null,
-      "fair_probability": 0.96,
-      "market_probability": 0.915,
-      "edge_bps": 450.0,
-      "confidence": "high",
-      "headline": "Claude 5 Appears Already Here — Strong YES on 2026 Release",
-      "summary": "Claude Sonnet 5 appears to have already launched in early April 2026, with technical details including pricing and benchmarks reported publicly. Even without this release, Anthropic's aggressive shipping pace and 8 months remaining make a Claude 5 family release near-certain.",
-      "why": [
-        "Claude Sonnet 5 reportedly went live on April 1, 2026, with a confirmed model string appearing on both the consumer product and API",
-        "Anthropic has shipped multiple major model updates in 2026 already, signaling rapid release cadence",
-        "Eight months remain before the January 2027 deadline, and fierce competition from rivals virtually guarantees a major numbered release"
-      ],
-      "watch_item": "Official Anthropic confirmation or retraction of the Claude Sonnet 5 model — if the reported launch turns out to be a premature leak or naming error, timing could shift (though a YES outcome remains highly likely regardless)"
-    },
-    {
       "id": "kalshi:KXWNBAGAME-26MAY12NYPDX",
       "cache_key": "dcef10e11ed41ca37dfd122b",
       "title": "New York vs Portland",
@@ -507,6 +484,29 @@
         "The game may have already been played, creating dangerous information asymmetry where others could know the result"
       ],
       "watch_item": "Confirmation of whether this game has already been played and its final result — if the market is still open post-game, stale prices could reflect a trap rather than an opportunity"
+    },
+    {
+      "id": "kalshi:KXVOTEHUBTRUMPUPDOWN-26MAY21",
+      "cache_key": "90998b5061619b7a16de2cbb",
+      "title": "Will Trump's approval rating increase this week?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxvotehubtrumpupdown/trump-approval-up-or-down-this-week/kxvotehubtrumpupdown-26may21",
+      "category": "Politics",
+      "generated_at": "2026-05-20T06:41:50.022413+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.04,
+      "market_probability": 0.075,
+      "edge_bps": 350.0,
+      "confidence": "high",
+      "headline": "Trump Approval Jump This Week Is Near-Impossible",
+      "summary": "Trump's approval sits at 35-38% across major polls, well below the ~40% threshold needed, with a strong downward trend and no positive catalyst in sight within the roughly 42 hours remaining.",
+      "why": [
+        "Current approval (35-38%) would need a historic 2-5 point surge in under two days",
+        "Approval just hit new second-term lows on May 18-19 with a clear downward trajectory",
+        "No visible positive catalyst — structural headwinds from Iran tensions, gas prices, and base erosion persist"
+      ],
+      "watch_item": "Any major unexpected positive event (deal, crisis resolution) in the next 42 hours that could shock polls upward"
     },
     {
       "id": "kalshi:KXMOONMAN-31",
