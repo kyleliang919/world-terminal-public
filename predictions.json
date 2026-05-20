@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T15:06:37+00:00",
+  "generated_at": "2026-05-20T00:05:51+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -47,6 +47,29 @@
         "Market appears to be dramatically lagging publicly available confirmation news"
       ],
       "watch_item": "Any reclassification of the 'mildly positive' PCR result as inconclusive, or unusual resolution criteria requiring a specific reporting format not yet published"
+    },
+    {
+      "id": "kalshi:KXNEXTROMANIAPM-45JAN01",
+      "cache_key": "0c11f4c1d152d111c159a236",
+      "title": "Who will be the next new Prime Minister of Romania?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextromaniapm/who-will-be-the-next-romanian-pm/kxnextromaniapm-45jan01",
+      "category": "Elections",
+      "generated_at": "2026-05-19T03:06:00.897037+00:00",
+      "action": "SELL_YES",
+      "choice": "Eugen Tomac",
+      "fair_probability": 0.04,
+      "market_probability": 0.465,
+      "edge_bps": 4250.0,
+      "confidence": "high",
+      "headline": "Eugen Tomac at 46.5% for Romania PM Is a Broken Price — Sell It",
+      "summary": "Kalshi's Romania PM market is severely dysfunctional, with three candidates each priced at 46.5% (summing to an impossible 139.5%). Eugen Tomac, a minor-party leader with roughly 4% real odds, represents the most egregious mispricing and the clearest sell opportunity.",
+      "why": [
+        "Three candidates at identical 46.5% is mathematically impossible — a clear pricing artifact or illiquidity issue",
+        "Tomac leads a minor party with no realistic path to assembling a parliamentary majority",
+        "Cross-venue consensus places technocrats like Matei (~22%) and Burnete (~17%) as actual frontrunners, not Tomac"
+      ],
+      "watch_item": "Whether the displayed 46.5% price is actually executable — market illiquidity may prevent trades from filling at this level"
     },
     {
       "id": "kalshi:KXHORMUZWEEKLY-26MAY10",
@@ -164,29 +187,6 @@
       "watch_item": "Any sudden US-Iran diplomatic breakthrough or unilateral military corridor operation could rapidly shift the timeline"
     },
     {
-      "id": "kalshi:KXNEXTUKPM-30",
-      "cache_key": "c36e42628bc33fecb5972a64",
-      "title": "Who will be the next Prime Minister of the UK?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxnextukpm/next-uk-pm/kxnextukpm-30",
-      "category": "Elections",
-      "generated_at": "2026-05-13T13:57:31.104808+00:00",
-      "action": "SELL_YES",
-      "choice": "Ed Miliband",
-      "fair_probability": 0.05,
-      "market_probability": 0.18,
-      "edge_bps": 1300.0,
-      "confidence": "high",
-      "headline": "Ed Miliband Massively Overpriced at 18% for Next UK PM",
-      "summary": "With 80+ Labour MPs calling for Starmer's resignation, a leadership contest is brewing—but Ed Miliband, a failed former leader absent from all credible contender lists, has no realistic path to Number 10 at his current market price.",
-      "why": [
-        "Miliband doesn't appear on any serious media or bookmaker shortlist for the Labour leadership",
-        "As a failed former leader who lost the 2015 election, he faces massive credibility barriers within the party",
-        "Genuine contenders like Angela Rayner (Deputy PM) and Wes Streeting are far better positioned"
-      ],
-      "watch_item": "If frontrunner candidates like Rayner, Streeting, and Burnham damage each other in a drawn-out contest, Miliband could theoretically emerge as a compromise—watch for any endorsements or media positioning"
-    },
-    {
       "id": "poly:0x69487ec66303113e2c9125f83de781ba9311656f5f79d811e1153aed5c427fab",
       "cache_key": "ad94cb355d4af08fd6e59934",
       "title": "Starmer out by May 19, 2026?",
@@ -208,29 +208,6 @@
         "Market only requires an announcement of resignation — not the effective date — lowering the bar for resolution"
       ],
       "watch_item": "Additional cabinet resignations in the next 48 hours — if more senior ministers follow Streeting, Starmer's position becomes untenable regardless of his stated defiance"
-    },
-    {
-      "id": "kalshi:KXECONPATH-26",
-      "cache_key": "60cb955c4bc5771089313fd9",
-      "title": "State of the economy at the end of 2026",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxeconpath/state-of-the-economy/kxeconpath-26",
-      "category": "Economics",
-      "generated_at": "2026-05-03T21:10:15.981189+00:00",
-      "action": "SELL_YES",
-      "choice": "Stagflation",
-      "fair_probability": 0.27,
-      "market_probability": 0.395,
-      "edge_bps": 1250.0,
-      "confidence": "medium",
-      "headline": "Stagflation Fears Look Overpriced — Labor Market Too Strong for the Doom Scenario",
-      "summary": "The market prices stagflation by end of 2026 at nearly 40%, but unemployment would need to climb from 4.3% to 5.0%+ — a steep hurdle given one of the tightest labor markets in decades. Fair probability is closer to 27%, offering meaningful edge on the NO side.",
-      "why": [
-        "Unemployment at 4.3% with jobless claims near 55-year lows means a +0.7pp jump to the 5.0% stagflation threshold is historically rare outside full recessions",
-        "The economy is still adding ~178K jobs/month with GDP growth at +2.0% — no recession signals in sight",
-        "While elevated energy prices from Middle East tensions keep inflation hot, that points more toward 'overheating' than stagflation without a corresponding labor market collapse"
-      ],
-      "watch_item": "A sharp escalation of the Iran conflict or sudden cascade of government layoffs and tariff shocks could break the labor market faster than historical patterns suggest — watch weekly jobless claims for early warning signs."
     },
     {
       "id": "kalshi:KXUSAEXPANDTERRITORY",
@@ -277,6 +254,29 @@
         "Anthropic's $900B valuation round signals stronger market confidence and IPO readiness"
       ],
       "watch_item": "OpenAI could be forced into an earlier IPO if capital needs outpace private fundraising capacity or board pressure mounts"
+    },
+    {
+      "id": "kalshi:KXNEXTUKPM-30",
+      "cache_key": "658155b04acbb94177791f1b",
+      "title": "Who will be the next Prime Minister of the UK?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextukpm/next-uk-pm/kxnextukpm-30",
+      "category": "Elections",
+      "generated_at": "2026-05-19T17:03:48.767766+00:00",
+      "action": "BUY_YES",
+      "choice": "Wes Streeting",
+      "fair_probability": 0.16,
+      "market_probability": 0.066,
+      "edge_bps": 940.0,
+      "confidence": "medium",
+      "headline": "Wes Streeting Significantly Underpriced as Next UK PM",
+      "summary": "Streeting is a declared leadership challenger already sitting in Parliament, priced at just 6.6% despite a fair value estimate around 16% — making him the best risk-adjusted bet in the next UK PM market.",
+      "why": [
+        "Streeting has already declared his candidacy and doesn't need to win a by-election to compete",
+        "Frontrunner Andy Burnham faces a perilous by-election against Reform before he can even enter the leadership race",
+        "As the natural fallback if Burnham stumbles, Streeting's upside is directly tied to the most likely disruption scenario"
+      ],
+      "watch_item": "Whether Andy Burnham secures a safe parliamentary seat — a convincing by-election win would significantly reduce Streeting's chances"
     },
     {
       "id": "kalshi:KXNEWOUTBREAKHANTA-26",
@@ -371,29 +371,6 @@
       "watch_item": "Republican redistricting gains in key states could net 8-13 seats, significantly reducing the Democratic House edge if maps are finalized favorably"
     },
     {
-      "id": "kalshi:KXMOLDOVAPRES-28",
-      "cache_key": "ba42fb3b239e28b5a41e07c1",
-      "title": "Who will win the next Moldovan presidential election?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxmoldovapres/moldova-presidency/kxmoldovapres-28",
-      "category": "Elections",
-      "generated_at": "2026-05-03T21:07:21.595402+00:00",
-      "action": "BUY_YES",
-      "choice": "Alexandr Stoianoglo",
-      "fair_probability": 0.3,
-      "market_probability": 0.235,
-      "edge_bps": 650.0,
-      "confidence": "medium",
-      "headline": "Stoianoglo Underpriced as Moldova's Top Opposition Contender for 2028",
-      "summary": "With President Sandu term-limited, the pro-EU vote will fragment across multiple candidates while Alexandr Stoianoglo—who won 44.65% in the 2024 runoff—stands as the proven opposition frontrunner, making his current 23.5% market price a value opportunity.",
-      "why": [
-        "Stoianoglo already proved his appeal with nearly 45% in the 2024 presidential runoff, giving him unmatched name recognition in the opposition lane",
-        "Sandu's departure forces the ruling PAS party to split its base among several successors (Grosu, Recean, Gavrilița), diluting pro-EU support",
-        "The market's total probability sums to only ~82%, meaning contracts are structurally cheap relative to a properly calibrated field"
-      ],
-      "watch_item": "Whether PAS unifies early behind a single consensus candidate—if Grosu or Recean locks up the pro-EU lane before 2027, Stoianoglo's path narrows significantly"
-    },
-    {
       "id": "kalshi:KXMLBGAME-26MAY132010SEAHOU",
       "cache_key": "6fbaa7d2946894b05ca951b2",
       "title": "Seattle vs Houston",
@@ -438,6 +415,29 @@
         "Even accounting for potential regulatory delays or market disruptions, the August 1 deadline provides meaningful buffer beyond the June target"
       ],
       "watch_item": "A severe market downturn (e.g., tariff escalation or recession fears) that could freeze the IPO window and push pricing past July"
+    },
+    {
+      "id": "kalshi:KXFEDDECISION-26JUL",
+      "cache_key": "01f053f01fdbe9eb65f4b5b0",
+      "title": "Fed decision in Jul 2026?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jul",
+      "category": "Economics",
+      "generated_at": "2026-05-19T03:12:29.813903+00:00",
+      "action": "SELL_YES",
+      "choice": "Cut 25bps",
+      "fair_probability": 0.03,
+      "market_probability": 0.075,
+      "edge_bps": 450.0,
+      "confidence": "medium",
+      "headline": "July 2026 Rate Cut Looks Overpriced — Sell the Cut Contracts",
+      "summary": "With CPI running at 3.8% and futures markets pricing rate hikes by year-end, a July 2026 rate cut is near-impossible. The 7.5¢ price on a 25bps cut significantly overstates the true probability.",
+      "why": [
+        "CPI at 3.8% makes cutting rates extremely unlikely — the inflation environment points toward holds or hikes",
+        "New Fed Chair Warsh is unlikely to make bold dovish moves in his early tenure",
+        "Fed funds futures are pricing a 51% chance of a hike by December, not cuts"
+      ],
+      "watch_item": "A sudden financial crisis, oil price collapse, or aggressive political pressure on the new Fed Chair could revive cut expectations"
     },
     {
       "id": "poly:0x22014d44b787385b7baddb2b9d56cdcf5904fd7783b83c28403962dd71e51a51",
