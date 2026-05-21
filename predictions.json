@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T13:04:58+00:00",
+  "generated_at": "2026-05-21T05:12:59+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -210,29 +210,6 @@
       "watch_item": "Additional cabinet resignations in the next 48 hours — if more senior ministers follow Streeting, Starmer's position becomes untenable regardless of his stated defiance"
     },
     {
-      "id": "kalshi:KXTRUMPAPPROVALBELOW-26DEC31",
-      "cache_key": "e4362347873d35aef58cf06f",
-      "title": "How low will Trump's approval rating get before 2027?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxtrumpapprovalbelow/how-low-will-trump-s-approval-get-this-year/kxtrumpapprovalbelow-26dec31",
-      "category": "Politics",
-      "generated_at": "2026-05-20T06:44:41.683935+00:00",
-      "action": "BUY_YES",
-      "choice": "Below 36%",
-      "fair_probability": 0.62,
-      "market_probability": 0.505,
-      "edge_bps": 1150.0,
-      "confidence": "medium",
-      "headline": "Trump Approval Likely to Dip Below 36% Before 2027",
-      "summary": "With Trump's approval already at 37-38% in polling aggregates and individual polls reading as low as 34-35%, the market is underpricing the chance that the aggregate drops below 36% over the next 7.5 months.",
-      "why": [
-        "Individual polls (Reuters at 35%, Pew at 34%) have already broken below this threshold — aggregates typically follow",
-        "Iran tensions and cost-of-living concerns are creating sustained downward pressure with no clear positive catalysts ahead",
-        "7.5 months is a long window for the aggregate to hit a minimum, even if it briefly touches 36% before recovering"
-      ],
-      "watch_item": "A de-escalation in Iran or a meaningful economic improvement could reverse the downward trend and prop up the partisan floor above 36%."
-    },
-    {
       "id": "kalshi:KXRECOGROC-29",
       "cache_key": "4f3d96400656cbc876753047",
       "title": "Will Trump recognize Taiwan?",
@@ -277,6 +254,29 @@
         "Denmark's incoming right-leaning government is less likely, not more, to cede Greenland"
       ],
       "watch_item": "Any shift in resolution criteria interpretation—if 'gains control' could include new military base sovereignty designations (Guantanamo-style), the probability rises significantly"
+    },
+    {
+      "id": "kalshi:KXTRUMPAPPROVALBELOW-26DEC31",
+      "cache_key": "ebd477c3cc10841b8871ba46",
+      "title": "How low will Trump's approval rating get before 2027?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpapprovalbelow/how-low-will-trump-s-approval-get-this-year/kxtrumpapprovalbelow-26dec31",
+      "category": "Politics",
+      "generated_at": "2026-05-21T05:10:58.237826+00:00",
+      "action": "BUY_YES",
+      "choice": "Below 36%",
+      "fair_probability": 0.65,
+      "market_probability": 0.545,
+      "edge_bps": 1050.0,
+      "confidence": "medium",
+      "headline": "Trump's Approval Likely to Dip Below 36% Before 2027",
+      "summary": "With Trump's approval aggregate already at 38% and individual polls registering as low as 34-35%, a further 2-point drop in the aggregate over the next 7.5 months appears more likely than the market reflects, especially given ongoing pressures from the Iran conflict and economic concerns.",
+      "why": [
+        "Approval aggregate already at 38% with a clear downward trend driven by war and economic anxiety",
+        "Individual polls (Reuters/Ipsos) already reading 35%, suggesting the aggregate will follow",
+        "7.5 months remain for any single reading to breach the threshold—time favors further decline"
+      ],
+      "watch_item": "A ceasefire or diplomatic deal with Iran could stabilize or reverse the approval slide before aggregates hit 36%"
     },
     {
       "id": "kalshi:KXNEXTUKPM-30",
