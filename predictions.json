@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T05:13:12+00:00",
+  "generated_at": "2026-05-23T11:13:31+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -164,6 +164,29 @@
       "watch_item": "Whether bilateral remarks are open to press or conducted behind closed doors, which could affect resolution if no public transcript is available"
     },
     {
+      "id": "kalshi:KXTRUMPMEETING-27JAN01",
+      "cache_key": "935a33683dae5ff117f5ecec",
+      "title": "Who will Donald Trump meet in 2026?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpmeeting/who-will-trump-meet-this-year/kxtrumpmeeting-27jan01",
+      "category": "Politics",
+      "generated_at": "2026-05-23T08:37:28.659101+00:00",
+      "action": "BUY_YES",
+      "choice": "Kevin Warsh",
+      "fair_probability": 0.97,
+      "market_probability": 0.805,
+      "edge_bps": 1650.0,
+      "confidence": "high",
+      "headline": "Kevin Warsh Meeting with Trump Near-Certain After White House Swearing-In",
+      "summary": "Kevin Warsh was sworn in as Fed Chair at the White House on May 22, 2026, making a Trump meeting virtually guaranteed. The market at 80.5% significantly underprices this near-certainty.",
+      "why": [
+        "Warsh's swearing-in ceremony took place at the White House, implying direct interaction with the President",
+        "Fed Chairs routinely meet with sitting presidents, especially immediately after appointment",
+        "Market price of 80.5% leaves ~16.5% edge against a ~97% fair probability"
+      ],
+      "watch_item": "Whether the market's resolution criteria require a specific type of formal 'meeting' beyond a swearing-in ceremony interaction"
+    },
+    {
       "id": "kalshi:KXHORMUZNORM-26MAR17",
       "cache_key": "a69aa34f0f9c40fd8e19c265",
       "title": "When will traffic at the Strait of Hormuz return to normal?",
@@ -185,6 +208,29 @@
         "Insurance premiums have surged 20x, creating structural lags that persist even after physical conditions improve"
       ],
       "watch_item": "Any sudden US-Iran diplomatic breakthrough or unilateral military corridor operation could rapidly shift the timeline"
+    },
+    {
+      "id": "kalshi:KXNEXTODNI-29",
+      "cache_key": "22586d7033acfbc6f6eba425",
+      "title": "Who will be Trump's next Director of National Intelligence?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextodni/next-dni/kxnextodni-29",
+      "category": "Politics",
+      "generated_at": "2026-05-23T08:21:08.367715+00:00",
+      "action": "SELL_YES",
+      "choice": "Devin Nunes",
+      "fair_probability": 0.05,
+      "market_probability": 0.175,
+      "edge_bps": 1250.0,
+      "confidence": "high",
+      "headline": "Devin Nunes Grossly Overpriced for DNI Role — No Evidence He's in the Running",
+      "summary": "With Aaron Lukas already named acting DNI by Trump effective June 30, Devin Nunes's 17.5% implied probability is pure speculation with no credible sourcing linking him to the intelligence post.",
+      "why": [
+        "Trump explicitly appointed Aaron Lukas as acting DNI, giving Lukas clear incumbent advantage",
+        "No credible reporting connects Nunes to the DNI role — he's currently CEO of Trump Media",
+        "Market carries ~47% total overround, systematically inflating longshot candidates"
+      ],
+      "watch_item": "Any reporting that Nunes is being considered for a national security role, or signs that Trump is unhappy with Lukas's performance as acting DNI"
     },
     {
       "id": "poly:0x69487ec66303113e2c9125f83de781ba9311656f5f79d811e1153aed5c427fab",
@@ -371,29 +417,6 @@
       "watch_item": "Whether the Iran/Hormuz energy crisis persists or resolves — sustained high inflation would keep the Fed in hold/hike mode, eliminating cut scenarios"
     },
     {
-      "id": "kalshi:KXBALANCEPOWERCOMBO-27FEB",
-      "cache_key": "91aa3a9d2f154f2ef6e186ce",
-      "title": "2026 2026 Midterms: Congress Balance of Power?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxbalancepowercombo/congress-balance-of-power-combo/kxbalancepowercombo-27feb",
-      "category": "Politics",
-      "generated_at": "2026-05-05T04:07:20.519928+00:00",
-      "action": "SELL_YES",
-      "choice": "R-House, R-Senate",
-      "fair_probability": 0.11,
-      "market_probability": 0.185,
-      "edge_bps": 750.0,
-      "confidence": "high",
-      "headline": "Democrats Favored to Sweep Congress in 2026 — R-House/R-Senate Looks Overpriced",
-      "summary": "Democrats are strongly positioned to retake the House (~85%) with the Senate a genuine toss-up leaning slightly blue (~52%), making D-House/D-Senate the most likely outcome at roughly 47% fair value versus the market's 44.5%.",
-      "why": [
-        "Generic ballot shows Democrats leading by 5-10 points with presidential approval cratering",
-        "Cross-platform consensus puts Democratic House odds around 85%",
-        "Senate individual race pricing has tipped slightly toward Democrats"
-      ],
-      "watch_item": "Republican redistricting gains in key states could net 8-13 seats, significantly reducing the Democratic House edge if maps are finalized favorably"
-    },
-    {
       "id": "kalshi:KXMLBGAME-26MAY132010SEAHOU",
       "cache_key": "6fbaa7d2946894b05ca951b2",
       "title": "Seattle vs Houston",
@@ -440,29 +463,6 @@
       "watch_item": "A sudden financial crisis, oil price collapse, or aggressive political pressure on the new Fed Chair could revive cut expectations"
     },
     {
-      "id": "poly:0x22014d44b787385b7baddb2b9d56cdcf5904fd7783b83c28403962dd71e51a51",
-      "cache_key": "b8ea29ff2ecc33db5d35e917",
-      "title": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 22, 2026?",
-      "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by#event-detail-accordion-item-2119227-will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
-      "category": "",
-      "generated_at": "2026-05-06T06:58:53.209922+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.14,
-      "market_probability": 0.185,
-      "edge_bps": 450.0,
-      "confidence": "medium",
-      "headline": "Trump Blockade of Hormuz Unlikely to Be Lifted in Next 16 Days",
-      "summary": "With Trump explicitly confirming the Strait of Hormuz blockade 'remains in full force and effect' as of May 5-6 and major preconditions for a deal still unresolved, a formal lifting announcement by May 22 faces steep structural barriers despite some diplomatic momentum.",
-      "why": [
-        "Trump publicly reaffirmed the blockade is active just days ago, even while touting 'Great Progress' on Iran talks",
-        "Key preconditions — especially Iran's nuclear concessions — remain far from resolution with only 16 days left",
-        "Active military hostilities in the Strait and a cancelled diplomatic trip suggest talks may be stalling"
-      ],
-      "watch_item": "Any surprise Trump social media post or White House announcement signaling an imminent Iran deal framework — his unpredictable style means rapid reversals can't be ruled out"
-    },
-    {
       "id": "kalshi:KXWNBAGAME-26MAY12NYPDX",
       "cache_key": "dcef10e11ed41ca37dfd122b",
       "title": "New York vs Portland",
@@ -486,6 +486,29 @@
       "watch_item": "Confirmation of whether this game has already been played and its final result — if the market is still open post-game, stale prices could reflect a trap rather than an opportunity"
     },
     {
+      "id": "kalshi:KXCABOUT-26MAY22",
+      "cache_key": "535ccbbb55453ed12851658e",
+      "title": "Who will leave Trump's Cabinet next?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxcabout/next-cabinet-memeber-out/kxcabout-26may22",
+      "category": "Politics",
+      "generated_at": "2026-05-23T08:27:41.080716+00:00",
+      "action": "SELL_YES",
+      "choice": "Sean Duffy",
+      "fair_probability": 0.08,
+      "market_probability": 0.115,
+      "edge_bps": 350.0,
+      "confidence": "medium",
+      "headline": "Sean Duffy Overpriced as Next Cabinet Departure — No Scandal, No Signal",
+      "summary": "Transportation Secretary Sean Duffy's 11.5% market probability of being the next Cabinet departure significantly overstates his risk, given his low profile, lack of controversy, and strong alignment with Trump.",
+      "why": [
+        "Duffy has no active scandal, policy friction, or public tension with the White House",
+        "Market overround of ~21.5% systematically inflates tail-end candidates like Duffy",
+        "Trump historically fires officials for disloyalty or contradiction—neither applies here"
+      ],
+      "watch_item": "Any emerging controversy, policy disagreement, or public friction between Duffy and the White House that could create a departure catalyst"
+    },
+    {
       "id": "kalshi:KXVOTEHUBTRUMPUPDOWN-26MAY21",
       "cache_key": "90998b5061619b7a16de2cbb",
       "title": "Will Trump's approval rating increase this week?",
@@ -507,29 +530,6 @@
         "No visible positive catalyst — structural headwinds from Iran tensions, gas prices, and base erosion persist"
       ],
       "watch_item": "Any major unexpected positive event (deal, crisis resolution) in the next 42 hours that could shock polls upward"
-    },
-    {
-      "id": "kalshi:KXMOONMAN-31",
-      "cache_key": "1003739cba4fed4fe4df37a0",
-      "title": "Which country will be the next to send humans to the Moon?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxmoonman/manned-mission-to-the-moon/kxmoonman-31",
-      "category": "Science and Technology",
-      "generated_at": "2026-05-05T13:58:28.930368+00:00",
-      "action": "BUY_YES",
-      "choice": "United States",
-      "fair_probability": 0.5,
-      "market_probability": 0.465,
-      "edge_bps": 350.0,
-      "confidence": "low",
-      "headline": "United States Underpriced as Next to Land Humans on the Moon",
-      "summary": "With Artemis II successfully completed in April 2026 and two parallel lunar lander programs reducing risk, the US at 46.5% is modestly underpriced against a fair value near 50% to be the next country to put humans on the Moon.",
-      "why": [
-        "Artemis II proved out the SLS/Orion system, giving real momentum toward a crewed landing by 2028-2029",
-        "NASA's dual-vendor lander strategy (SpaceX and Blue Origin) reduces single-point-of-failure risk",
-        "China's 2030 target relies entirely on unflown hardware with no backup timeline"
-      ],
-      "watch_item": "Progress on SpaceX Starship orbital refueling demonstrations — sustained delays here would push the US landing well past 2028 and narrow the edge"
     },
     {
       "id": "kalshi:KXFEDDECISION-26JUN",
