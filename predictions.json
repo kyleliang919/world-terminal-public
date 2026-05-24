@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T05:13:41+00:00",
+  "generated_at": "2026-05-24T11:13:49+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -47,6 +47,29 @@
         "Market appears to be dramatically lagging publicly available confirmation news"
       ],
       "watch_item": "Any reclassification of the 'mildly positive' PCR result as inconclusive, or unusual resolution criteria requiring a specific reporting format not yet published"
+    },
+    {
+      "id": "kalshi:KXTRUMPMENTION-26MAY12",
+      "cache_key": "2c38dcea0304f8df50f10483",
+      "title": "What will Trump say during the bilateral with China?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpmention/what-will-trump-say/kxtrumpmention-26may12",
+      "category": "Mentions",
+      "generated_at": "2026-05-24T05:45:39.877704+00:00",
+      "action": "SELL_YES",
+      "choice": "Iran / Iranian",
+      "fair_probability": 0.2,
+      "market_probability": 0.625,
+      "edge_bps": 4250.0,
+      "confidence": "high",
+      "headline": "Trump-China Bilateral Greeting Too Brief for Policy Keywords — Iran Mention Heavily Overpriced",
+      "summary": "The Trump-China bilateral meeting featured only brief diplomatic pleasantries in public remarks, making specific policy keywords like 'Iran' extremely unlikely to have been mentioned. The market is pricing Iran at 62.5% when fair value is closer to 20%.",
+      "why": [
+        "An identical Iran contract at the same price previously resolved NO for this same event format",
+        "Public bilateral greetings are typically 3-5 minutes of diplomatic pleasantries, not policy discussions",
+        "Social media evidence confirms Trump's actual remarks were brief and ceremonial in tone"
+      ],
+      "watch_item": "Whether the resolution scope covers only the opening greeting or the full bilateral meeting transcript"
     },
     {
       "id": "kalshi:KXNEXTROMANIAPM-45JAN01",
@@ -116,29 +139,6 @@
         "No historical precedent for forcible seizure of sovereign territory in the modern era, and Congress shows no appetite for it"
       ],
       "watch_item": "Any negotiated 'security agreement' giving the US an official operational role at the canal could blur the resolution line"
-    },
-    {
-      "id": "kalshi:KXTRUMPMENTION-26MAY12",
-      "cache_key": "2c38dcea0304f8df50f10483",
-      "title": "What will Trump say during the bilateral with China?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxtrumpmention/what-will-trump-say/kxtrumpmention-26may12",
-      "category": "Mentions",
-      "generated_at": "2026-05-13T15:58:54.843879+00:00",
-      "action": "BUY_YES",
-      "choice": "Tariff",
-      "fair_probability": 0.72,
-      "market_probability": 0.525,
-      "edge_bps": 1950.0,
-      "confidence": "high",
-      "headline": "Trump Almost Certainly Says 'Tariff' During China Bilateral — Market Underpricing It",
-      "summary": "With tariffs confirmed as a central agenda item at the Trump-Xi summit in Beijing and Trump's well-documented habit of using the word compulsively, the market at 52.5% significantly underprices the ~72% fair probability he says 'tariff' during the bilateral meeting.",
-      "why": [
-        "Trade/tariffs are explicitly central to the summit agenda per all major outlets",
-        "'Tariff' is Trump's signature trade vocabulary — he uses it reflexively in any commerce discussion",
-        "Market resolution covers the full bilateral meeting (inclusive of greeting), giving multiple opportunities for the word to appear"
-      ],
-      "watch_item": "Whether bilateral remarks are open to press or conducted behind closed doors, which could affect resolution if no public transcript is available"
     },
     {
       "id": "kalshi:KXTRUMPMEETING-27JAN01",
