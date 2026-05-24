@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:13:34+00:00",
+  "generated_at": "2026-05-24T05:13:41+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -70,29 +70,6 @@
         "Cross-venue consensus places technocrats like Matei (~22%) and Burnete (~17%) as actual frontrunners, not Tomac"
       ],
       "watch_item": "Whether the displayed 46.5% price is actually executable — market illiquidity may prevent trades from filling at this level"
-    },
-    {
-      "id": "kalshi:KXHORMUZWEEKLY-26MAY10",
-      "cache_key": "7ef296bc0d78ec1c4cf88643",
-      "title": "Traffic through the Strait of Hormuz? (5/4 - 5/10)",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxhormuzweekly/traffic-through-the-strait-of-hormuz/kxhormuzweekly-26may10",
-      "category": "Politics",
-      "generated_at": "2026-05-09T05:11:28.073675+00:00",
-      "action": "SELL_YES",
-      "choice": "Above 40",
-      "fair_probability": 0.2,
-      "market_probability": 0.615,
-      "edge_bps": 4150.0,
-      "confidence": "high",
-      "headline": "Strait of Hormuz Traffic Far Below Market Expectations Amid Iran-US Conflict",
-      "summary": "With only 2-7 ships transiting daily versus the pre-conflict norm of 100+, the market is dramatically overpricing the likelihood of weekly traffic exceeding 40 vessels during May 4-10.",
-      "why": [
-        "Actual daily transits are 2-7 ships due to ongoing attacks, insurance restrictions, and shipowner wariness — far below the ~6/day needed to hit 40",
-        "Iran's May 6 safe passage announcement has not meaningfully restored traffic, and new US strikes on May 8 reinforce the hostile environment",
-        "Only a few days remain in the measurement window, leaving almost no time for a meaningful traffic surge"
-      ],
-      "watch_item": "A sudden ceasefire or diplomatic breakthrough that triggers a rush of queued vessels through the strait before May 10"
     },
     {
       "id": "kalshi:KXHORMUZWEEKLY-26MAY17",
@@ -415,6 +392,29 @@
         "Major banks still forecast rate cuts in H2 2027 despite current hawkish market pricing"
       ],
       "watch_item": "Whether the Iran/Hormuz energy crisis persists or resolves — sustained high inflation would keep the Fed in hold/hike mode, eliminating cut scenarios"
+    },
+    {
+      "id": "poly:0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+      "cache_key": "b62b740921aaf0bdd0c7f99f",
+      "title": "Strait of Hormuz traffic returns to normal by end of May?",
+      "venue": "polymarket",
+      "market_url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+      "category": "",
+      "generated_at": "2026-05-24T05:12:30.894432+00:00",
+      "action": "BET_NO",
+      "choice": null,
+      "fair_probability": 0.03,
+      "market_probability": 0.085,
+      "edge_bps": 550.0,
+      "confidence": "high",
+      "headline": "Strait of Hormuz Traffic Has Almost No Chance of Normalizing by May 31",
+      "summary": "With only days remaining in May, strait traffic is running at a fraction of the 60+ daily transits needed, amid an active military crisis and Iran's checkpoint system—making normalization by month's end virtually impossible.",
+      "why": [
+        "Current traffic of 3–26 ships/day is far below the 60+ transit threshold required for resolution",
+        "Iran has imposed a toll and checkpoint system creating a structural bottleneck with no signs of lifting",
+        "Industry projections place full traffic recovery no earlier than mid-2027"
+      ],
+      "watch_item": "A sudden US-Iran ceasefire or diplomatic breakthrough that removes Iranian maritime controls overnight"
     },
     {
       "id": "kalshi:KXMLBGAME-26MAY132010SEAHOU",
