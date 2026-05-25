@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-05-24T17:13:51+00:00",
+  "generated_at": "2026-05-25T16:35:31+00:00",
   "source_count": 24,
   "cards": [
-    {
-      "id": "poly:0x5e5482b1e2afa7bed0b9a0c3c8ad33a83dd6cc6d649666cdf1977be64c42c82a",
-      "cache_key": "c9165813dc521b28896bdc6e",
-      "title": "Epstein suicide note released by May 8?",
-      "venue": "polymarket",
-      "market_url": "https://polymarket.com/event/epstein-suicide-note-released-by#event-detail-accordion-item-2128535-epstein-suicide-note-released-by-may-8",
-      "category": "",
-      "generated_at": "2026-05-12T06:55:22.269820+00:00",
-      "action": "BET_YES",
-      "choice": null,
-      "fair_probability": 0.95,
-      "market_probability": 0.0005,
-      "edge_bps": 9495.0,
-      "confidence": "medium",
-      "headline": "Epstein Suicide Note Was Released Before May 8 Deadline",
-      "summary": "A federal judge unsealed a purported Epstein suicide note on May 6-7, 2026, with wall-to-wall coverage from major outlets including NYT, AP, BBC, and CNN — meeting the 'credibly reported' threshold well before the May 8 deadline.",
-      "why": [
-        "Federal judge publicly released the note 1-2 days before the deadline",
-        "Every major news outlet (NYT, AP, BBC, CNN, NPR, Time, Axios) reported it as a suicide/goodbye note",
-        "Resolution criteria require only 'credibly reported' release — not full authentication"
-      ],
-      "watch_item": "The market's near-zero YES price despite overwhelming evidence suggests a possible resolution interpretation issue — watch whether operators define 'suicide note' as requiring connection to Epstein's actual August 2019 death rather than his earlier July attempt."
-    },
     {
       "id": "kalshi:KXHANTACOUNTRY-26",
       "cache_key": "15a3d0eacfa3b314dd103b4b",
@@ -93,6 +70,29 @@
         "Cross-venue consensus places technocrats like Matei (~22%) and Burnete (~17%) as actual frontrunners, not Tomac"
       ],
       "watch_item": "Whether the displayed 46.5% price is actually executable — market illiquidity may prevent trades from filling at this level"
+    },
+    {
+      "id": "kalshi:KXTRUMPMENTION-26MAY14",
+      "cache_key": "e22162a0e65fc526fe6596fa",
+      "title": "What will Trump say during his China State Banquet?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxtrumpmention/what-will-trump-say/kxtrumpmention-26may14",
+      "category": "Mentions",
+      "generated_at": "2026-05-25T08:09:54.545981+00:00",
+      "action": "BUY_YES",
+      "choice": "Investment / Invested",
+      "fair_probability": 0.75,
+      "market_probability": 0.435,
+      "edge_bps": 3150.0,
+      "confidence": "medium",
+      "headline": "Trump Likely Said 'Investment' at China State Banquet — Market Appears Underpriced",
+      "summary": "Multiple transcript sources indicate Trump used the word 'Investment' during his China state banquet toast on May 14, yet the market prices this at only ~44%, suggesting significant mispricing for an event that has already occurred.",
+      "why": [
+        "Independent transcript sources and video captures show 'investment' language in the banquet remarks",
+        "Market is pricing a past event at ~44% when verified transcripts should push it near 0% or 100%",
+        "Trump's bilateral deal announcements and toast context make investment-related language highly natural"
+      ],
+      "watch_item": "Official transcript release or resolution criteria clarification — if the market uses a narrower scope than the full toast, the edge could evaporate"
     },
     {
       "id": "kalshi:KXHORMUZWEEKLY-26MAY17",
