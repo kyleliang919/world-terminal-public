@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T17:44:54+00:00",
+  "generated_at": "2026-05-26T12:59:48+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -26,6 +26,29 @@
       "watch_item": "Any reclassification of the 'mildly positive' PCR result as inconclusive, or unusual resolution criteria requiring a specific reporting format not yet published"
     },
     {
+      "id": "kalshi:KXNEXTROMANIAPM-45JAN01",
+      "cache_key": "5788758aa5d9da46e8011c84",
+      "title": "Who will be the next new Prime Minister of Romania?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextromaniapm/who-will-be-the-next-romanian-pm/kxnextromaniapm-45jan01",
+      "category": "Elections",
+      "generated_at": "2026-05-26T06:31:10.829700+00:00",
+      "action": "SELL_YES",
+      "choice": "Eugen Tomac",
+      "fair_probability": 0.06,
+      "market_probability": 0.515,
+      "edge_bps": 4550.0,
+      "confidence": "high",
+      "headline": "Romanian PM Market Structurally Broken — Top Contracts Massively Overpriced",
+      "summary": "The top four candidates in this 26-person field are each priced near 50%, summing to over 200% — a mathematical impossibility that signals a broken market. With no confirmed PM nominee following Bolojan's May 5 ouster, individual fair values should be far lower.",
+      "why": [
+        "Market overround exceeds 300% — top four contracts alone sum to ~200%, which is structurally impossible",
+        "Eugen Tomac leads a minor party (PMP) and is not a consensus frontrunner, making 51.5% pricing absurd",
+        "With 26 candidates and no confirmed nominee from presidential consultations, no single candidate warrants near-coin-flip odds"
+      ],
+      "watch_item": "Any official PM nomination announcement from President Dan's ongoing consultations could rapidly reprice the entire field"
+    },
+    {
       "id": "kalshi:KXTRUMPMENTION-26MAY12",
       "cache_key": "2c38dcea0304f8df50f10483",
       "title": "What will Trump say during the bilateral with China?",
@@ -47,29 +70,6 @@
         "Social media evidence confirms Trump's actual remarks were brief and ceremonial in tone"
       ],
       "watch_item": "Whether the resolution scope covers only the opening greeting or the full bilateral meeting transcript"
-    },
-    {
-      "id": "kalshi:KXNEXTROMANIAPM-45JAN01",
-      "cache_key": "0c11f4c1d152d111c159a236",
-      "title": "Who will be the next new Prime Minister of Romania?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxnextromaniapm/who-will-be-the-next-romanian-pm/kxnextromaniapm-45jan01",
-      "category": "Elections",
-      "generated_at": "2026-05-19T03:06:00.897037+00:00",
-      "action": "SELL_YES",
-      "choice": "Eugen Tomac",
-      "fair_probability": 0.04,
-      "market_probability": 0.465,
-      "edge_bps": 4250.0,
-      "confidence": "high",
-      "headline": "Eugen Tomac at 46.5% for Romania PM Is a Broken Price — Sell It",
-      "summary": "Kalshi's Romania PM market is severely dysfunctional, with three candidates each priced at 46.5% (summing to an impossible 139.5%). Eugen Tomac, a minor-party leader with roughly 4% real odds, represents the most egregious mispricing and the clearest sell opportunity.",
-      "why": [
-        "Three candidates at identical 46.5% is mathematically impossible — a clear pricing artifact or illiquidity issue",
-        "Tomac leads a minor party with no realistic path to assembling a parliamentary majority",
-        "Cross-venue consensus places technocrats like Matei (~22%) and Burnete (~17%) as actual frontrunners, not Tomac"
-      ],
-      "watch_item": "Whether the displayed 46.5% price is actually executable — market illiquidity may prevent trades from filling at this level"
     },
     {
       "id": "kalshi:KXTRUMPMENTION-26MAY14",
