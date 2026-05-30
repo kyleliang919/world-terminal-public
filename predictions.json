@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T15:02:54+00:00",
+  "generated_at": "2026-05-30T16:05:39+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -348,29 +348,6 @@
       "watch_item": "Whether Andy Burnham secures a safe parliamentary seat — a convincing by-election win would significantly reduce Streeting's chances"
     },
     {
-      "id": "kalshi:KXNEWOUTBREAKHANTA-26",
-      "cache_key": "079e0f6ea98ab02ea75e8f74",
-      "title": "Will WHO declare Hantavirus a Public Health Emergency of International Concern this Year?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxnewoutbreakhanta/hantavirus-outbreak/kxnewoutbreakhanta-26",
-      "category": "Science and Technology",
-      "generated_at": "2026-05-12T17:35:50.078757+00:00",
-      "action": "BET_NO",
-      "choice": null,
-      "fair_probability": 0.09,
-      "market_probability": 0.179,
-      "edge_bps": 890.0,
-      "confidence": "medium",
-      "headline": "Hantavirus PHEIC Declaration Highly Unlikely Despite Cruise Ship Cluster",
-      "summary": "Despite a multi-country hantavirus cluster linked to a cruise ship generating headlines, the WHO has explicitly assessed the risk as 'low' and has not convened an Emergency Committee—making a Public Health Emergency of International Concern declaration this year very improbable.",
-      "why": [
-        "WHO explicitly rates risk as 'low' with no Emergency Committee convened—a necessary precursor to any PHEIC declaration",
-        "Only ~7 confirmed cases from a single cluster, and hantavirus has very limited person-to-person transmission capability",
-        "PHEIC declarations are historically rare (7-8 in 20 years), requiring sustained international spread that hantavirus biology makes unlikely"
-      ],
-      "watch_item": "Any evidence of sustained community transmission unlinked to the cruise ship cluster, or WHO convening an Emergency Committee, would significantly change the outlook"
-    },
-    {
       "id": "kalshi:KXFEDDECISION-27OCT",
       "cache_key": "c7c6d475559a02c88ad0edc8",
       "title": "Fed decision in Oct 2027?",
@@ -438,6 +415,29 @@
         "Market appears to be slow in pricing Seattle's dominance of this matchup"
       ],
       "watch_item": "Bryce Miller's workload in his first start back from the injured list—a short outing could tax Seattle's bullpen and shift the game's dynamics"
+    },
+    {
+      "id": "kalshi:KXODIMATCH-26MAY300730AUSPAK-AUS",
+      "cache_key": "7cdf9116912055944a9f74da",
+      "title": "Pakistan vs Australia Winner?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/search?q=KXODIMATCH-26MAY300730AUSPAK-AUS",
+      "category": "Combo",
+      "generated_at": "2026-05-30T15:42:32.982375+00:00",
+      "action": "BET_YES",
+      "choice": null,
+      "fair_probability": 0.14,
+      "market_probability": 0.095,
+      "edge_bps": 450.0,
+      "confidence": "low",
+      "headline": "Australia Slightly Underpriced Despite Being Heavy Underdogs in Pakistan",
+      "summary": "A severely depleted Australia squad faces full-strength Pakistan at home, but the market at 9.5% may underweight cricket's inherent variance and Australia's floor probability, with fair value estimated around 14%.",
+      "why": [
+        "Australia missing Cummins, Head, Starc, Hazlewood, and Marsh — fielding a near second-string team under emergency captain Inglis",
+        "Pakistan just whitewashed Australia 3-0 in T20Is at home and fields Babar, Shaheen, and Naseem in familiar conditions",
+        "Despite all headwinds, cricket variance and Australia's ODI pedigree create a probability floor the market may be underpricing"
+      ],
+      "watch_item": "Clarification on whether this market resolves on a single match or the full series winner — this dramatically shifts fair value between ~10% and ~20%"
     },
     {
       "id": "kalshi:KXFEDDECISION-26JUL",
