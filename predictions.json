@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:39:08+00:00",
+  "generated_at": "2026-05-30T15:02:54+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -70,6 +70,29 @@
         "Social media evidence confirms Trump's actual remarks were brief and ceremonial in tone"
       ],
       "watch_item": "Whether the resolution scope covers only the opening greeting or the full bilateral meeting transcript"
+    },
+    {
+      "id": "kalshi:KXFDAVERVE102-VERV",
+      "cache_key": "97708179ed06e0c367dcba67",
+      "title": "Will the FDA approve VERVE-102?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxfdaverve102/verve-102-fda-approval/kxfdaverve102-verv",
+      "category": "Science and Technology",
+      "generated_at": "2026-05-29T03:36:54.121156+00:00",
+      "action": "SELL_YES",
+      "choice": "Before 2030",
+      "fair_probability": 0.2,
+      "market_probability": 0.545,
+      "edge_bps": 3450.0,
+      "confidence": "high",
+      "headline": "VERVE-102 Approval Before 2030 Is Dramatically Overpriced at 54.5%",
+      "summary": "VERVE-102, a first-in-class gene editing therapy for cholesterol, just completed a 35-patient Phase 1b trial with Phase 2 not yet started—making FDA approval in under 3.5 years nearly unprecedented for any gene therapy, let alone one requiring heightened regulatory scrutiny.",
+      "why": [
+        "Phase 2 hasn't even begun; gene therapies typically take 6-12 years from first-in-human to approval",
+        "No gene editing therapy has ever achieved FDA approval in under 4 years from Phase 1b completion",
+        "First-in-class permanent gene editors face elevated safety scrutiny despite strong early efficacy data (88% PCSK9 reduction)"
+      ],
+      "watch_item": "Whether FDA grants Breakthrough Therapy designation or signals willingness to accept LDL-C reduction as a surrogate endpoint for accelerated approval without a full cardiovascular outcomes trial"
     },
     {
       "id": "kalshi:KXTRUMPMENTION-26MAY14",
@@ -256,27 +279,27 @@
       "watch_item": "A dramatic breakdown in U.S.-China relations—such as a Chinese military move on Taiwan—could force an emergency recognition scenario that currently isn't priced into the fundamentals"
     },
     {
-      "id": "kalshi:KXUSAEXPANDTERRITORY",
-      "cache_key": "5fdad742dd2050602d022688",
-      "title": "Will the US acquire any new territory?",
+      "id": "kalshi:KXGOVCA-26",
+      "cache_key": "3caf2fa0165aa0ee2d947765",
+      "title": "California Governor winner?",
       "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxusaexpandterritory/will-the-us-acquire-new-territory/kxusaexpandterritory",
-      "category": "Politics",
-      "generated_at": "2026-05-12T17:27:13.473073+00:00",
+      "market_url": "https://kalshi.com/markets/kxgovca/california-governor-s-race/kxgovca-26",
+      "category": "Elections",
+      "generated_at": "2026-05-29T03:58:10.119349+00:00",
       "action": "SELL_YES",
-      "choice": "Before Jan 21, 2029",
-      "fair_probability": 0.24,
-      "market_probability": 0.355,
-      "edge_bps": 1150.0,
-      "confidence": "medium",
-      "headline": "US Territory Acquisition Overpriced — Sell the Hype",
-      "summary": "The market prices a 35.5% chance the US acquires new territory before January 2029, but current negotiations focus on military bases rather than sovereignty, and key counterparties explicitly reject territorial transfer—putting fair value closer to 24%.",
+      "choice": "Tom Steyer",
+      "fair_probability": 0.11,
+      "market_probability": 0.215,
+      "edge_bps": 1050.0,
+      "confidence": "high",
+      "headline": "Tom Steyer Overpriced at 21.5% — Sell Before California Primary",
+      "summary": "With California's jungle primary just days away, Steyer is polling third at 15% and may not even advance to the general election, making his 21.5% market price roughly double fair value. Becerra leads at 23% and holds a massive structural advantage in deep-blue California.",
       "why": [
-        "US-Denmark/Greenland talks center on military base access, not sovereignty transfer—Greenland's leader calls sovereignty 'non-negotiable'",
-        "Venezuela '51st state' rhetoric has zero legal mechanism or pathway to actual acquisition",
-        "Denmark's incoming right-leaning government is less likely, not more, to cede Greenland"
+        "Steyer polling third (15%) behind Becerra (23%) and Hilton (20%) — only top two advance",
+        "California is D+25, meaning Becerra is heavily favored in any November matchup",
+        "Market prices Steyer at 21.5% vs. ~11% fair value — a significant mispricing with the primary imminent"
       ],
-      "watch_item": "Any shift in resolution criteria interpretation—if 'gains control' could include new military base sovereignty designations (Guantanamo-style), the probability rises significantly"
+      "watch_item": "Late-breaking Steyer ad spending or a polling surge that pushes him past Hilton into the top two before June 2"
     },
     {
       "id": "kalshi:KXTRUMPAPPROVALBELOW-26DEC31",
@@ -346,29 +369,6 @@
         "PHEIC declarations are historically rare (7-8 in 20 years), requiring sustained international spread that hantavirus biology makes unlikely"
       ],
       "watch_item": "Any evidence of sustained community transmission unlinked to the cruise ship cluster, or WHO convening an Emergency Committee, would significantly change the outlook"
-    },
-    {
-      "id": "kalshi:KXNEXTAG-29",
-      "cache_key": "4e7e3e9f921606359139b631",
-      "title": "Who will be Trump's next Attorney General?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxnextag/next-ag/kxnextag-29",
-      "category": "Politics",
-      "generated_at": "2026-05-12T17:34:14.209965+00:00",
-      "action": "SELL_YES",
-      "choice": "Lee Zeldin",
-      "fair_probability": 0.14,
-      "market_probability": 0.225,
-      "edge_bps": 850.0,
-      "confidence": "medium",
-      "headline": "Lee Zeldin Overpriced for Attorney General — No Evidence He's in the Running",
-      "summary": "Todd Blanche is currently serving as Acting AG and receiving favorable media coverage framing his tenure as an audition for the permanent role. Lee Zeldin, priced at 22.5%, has zero sourced reporting linking him to the AG position while actively leading the EPA.",
-      "why": [
-        "Zeldin is running the EPA with no credible reporting of an AG move — fair value closer to 14%",
-        "Blanche is the incumbent Acting AG, running press conferences and DOJ operations daily",
-        "Major outlets are framing Blanche's stint as an 'audition,' suggesting Trump is seriously considering him"
-      ],
-      "watch_item": "Whether Trump formally nominates Blanche before the Vacancies Act ~210-day clock forces a decision, or pivots to an entirely different candidate"
     },
     {
       "id": "kalshi:KXFEDDECISION-27OCT",
