@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T14:22:09+00:00",
+  "generated_at": "2026-06-03T15:46:53+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -118,29 +118,6 @@
       "watch_item": "Official transcript release or resolution criteria clarification — if the market uses a narrower scope than the full toast, the edge could evaporate"
     },
     {
-      "id": "kalshi:KXHORMUZWEEKLY-26MAY17",
-      "cache_key": "50e395d7b7781a33ce74163a",
-      "title": "Traffic through the Strait of Hormuz? (5/11 - 5/17)",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxhormuzweekly/traffic-through-the-strait-of-hormuz/kxhormuzweekly-26may17",
-      "category": "Politics",
-      "generated_at": "2026-05-12T17:45:24.059373+00:00",
-      "action": "BUY_YES",
-      "choice": "Above 20",
-      "fair_probability": 0.8,
-      "market_probability": 0.57,
-      "edge_bps": 2300.0,
-      "confidence": "medium",
-      "headline": "Strait of Hormuz Traffic Likely to Exceed 20 Ships Despite Ongoing Disruptions",
-      "summary": "Recent transit data showing 21 vessels in a single reporting period suggests cumulative weekly traffic (May 11-17) will clear the 20-ship threshold, even as US blockade enforcement and collapsed Iran peace talks weigh on volumes.",
-      "why": [
-        "Recent observations confirm ~10-15 ships per day currently transiting, making 20+ over a full week highly probable",
-        "Market pricing at 57% significantly undervalues the likelihood given observed vessel flow data",
-        "Iran's vetting process is allowing a trickle of compliant vessels through, maintaining baseline traffic"
-      ],
-      "watch_item": "Whether the prior week's surprising resolution below 20 ships repeats — a sudden escalation or full blockade enforcement could halt the current trickle of traffic"
-    },
-    {
       "id": "kalshi:KXCANAL-29",
       "cache_key": "3ad95a3fcd48cb6269b792e5",
       "title": "Will Trump take back the Panama Canal?",
@@ -164,6 +141,29 @@
       "watch_item": "Any negotiated 'security agreement' giving the US an official operational role at the canal could blur the resolution line"
     },
     {
+      "id": "kalshi:KXNFLRETIRE-MEVANS5",
+      "cache_key": "c95e93197396245d0bdccfc2",
+      "title": "Mike Evans: Retirement",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnflretire/pro-football-retirement/kxnflretire-mevans5",
+      "category": "Sports",
+      "generated_at": "2026-06-03T02:55:15.631546+00:00",
+      "action": "SELL_YES",
+      "choice": "Before the 2027-28 season",
+      "fair_probability": 0.12,
+      "market_probability": 0.305,
+      "edge_bps": 1850.0,
+      "confidence": "high",
+      "headline": "Mike Evans Retirement Before 2027-28 Season is Massively Overpriced at 30.5%",
+      "summary": "Evans just signed a 3-year, $60.4M deal with the 49ers in March 2026, is actively at OTAs, and explicitly dismissed retirement talk—making a one-year walkaway virtually unprecedented and the market's 30.5% probability far too high.",
+      "why": [
+        "Signed a 3-year/$60M contract just months ago—players don't walk away from $40M+ remaining after one season",
+        "Actively participating in offseason workouts and publicly shut down retirement speculation",
+        "Walking away from guaranteed money after a single year is essentially unheard of for healthy NFL players"
+      ],
+      "watch_item": "A catastrophic injury during the 2026 season that could force medical retirement and trigger early resolution"
+    },
+    {
       "id": "kalshi:KXTRUMPMEETING-27JAN01",
       "cache_key": "935a33683dae5ff117f5ecec",
       "title": "Who will Donald Trump meet in 2026?",
@@ -185,29 +185,6 @@
         "Market price of 80.5% leaves ~16.5% edge against a ~97% fair probability"
       ],
       "watch_item": "Whether the market's resolution criteria require a specific type of formal 'meeting' beyond a swearing-in ceremony interaction"
-    },
-    {
-      "id": "kalshi:KXHORMUZNORM-26MAR17",
-      "cache_key": "a69aa34f0f9c40fd8e19c265",
-      "title": "When will traffic at the Strait of Hormuz return to normal?",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
-      "category": "Politics",
-      "generated_at": "2026-05-12T17:51:29.340854+00:00",
-      "action": "SELL_YES",
-      "choice": "Before Jul 1, 2026",
-      "fair_probability": 0.1,
-      "market_probability": 0.255,
-      "edge_bps": 1550.0,
-      "confidence": "high",
-      "headline": "Strait of Hormuz Recovery Before July 2026 Is Heavily Overpriced",
-      "summary": "With traffic at just 11-21 ships per day versus the 60+ needed for normalization, no ceasefire deal in sight, and the Pentagon estimating 6 months for mine clearing alone, a return to normal before July 1, 2026 is extremely unlikely—yet the market prices it at ~25%.",
-      "why": [
-        "Current traffic is roughly one-third of the threshold needed to declare normalization, with no diplomatic deal signed",
-        "Pentagon estimates 6 months of mine clearing after hostilities end—making a 50-day resolution near-impossible",
-        "Insurance premiums have surged 20x, creating structural lags that persist even after physical conditions improve"
-      ],
-      "watch_item": "Any sudden US-Iran diplomatic breakthrough or unilateral military corridor operation could rapidly shift the timeline"
     },
     {
       "id": "kalshi:KXNEXTODNI-29",
@@ -254,6 +231,29 @@
         "Market only requires an announcement of resignation — not the effective date — lowering the bar for resolution"
       ],
       "watch_item": "Additional cabinet resignations in the next 48 hours — if more senior ministers follow Streeting, Starmer's position becomes untenable regardless of his stated defiance"
+    },
+    {
+      "id": "kalshi:KXNEXTDNCCHAIR-45",
+      "cache_key": "7f75127ba8d9a7191daa1b22",
+      "title": "Who will be the next DNC Chair?",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxnextdncchair/next-dnc-chair/kxnextdncchair-45",
+      "category": "Politics",
+      "generated_at": "2026-05-31T15:22:27.099940+00:00",
+      "action": "SELL_YES",
+      "choice": "Martin O'Malley",
+      "fair_probability": 0.08,
+      "market_probability": 0.2,
+      "edge_bps": 1200.0,
+      "confidence": "medium",
+      "headline": "Martin O'Malley Overpriced at 20% for DNC Chair — No Evidence of Candidacy",
+      "summary": "With no vacancy yet existing and zero reported evidence that O'Malley is seeking or being recruited for the DNC chair role, his 20% market price appears to be pure speculation in a massively oversubscribed market.",
+      "why": [
+        "Current DNC Chair Ken Martin is still in office and actively resisting resignation pressure",
+        "No reporting or insider signals link O'Malley to a DNC chair bid",
+        "Market contracts sum to ~197%, meaning all options are systematically overpriced"
+      ],
+      "watch_item": "Any credible reporting that Ken Martin will resign or that O'Malley is actively being recruited by Democratic insiders"
     },
     {
       "id": "kalshi:KXRECOGROC-29",
