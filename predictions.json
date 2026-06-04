@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T15:46:53+00:00",
+  "generated_at": "2026-06-04T06:09:28+00:00",
   "source_count": 24,
   "cards": [
     {
@@ -162,6 +162,29 @@
         "Walking away from guaranteed money after a single year is essentially unheard of for healthy NFL players"
       ],
       "watch_item": "A catastrophic injury during the 2026 season that could force medical retirement and trigger early resolution"
+    },
+    {
+      "id": "kalshi:KXMENWORLDCUP-26",
+      "cache_key": "217e26f60290d3eb015efe02",
+      "title": "2026 Men's World Cup Winner",
+      "venue": "kalshi",
+      "market_url": "https://kalshi.com/markets/kxmenworldcup/men-s-world-cup-winner/kxmenworldcup-26",
+      "category": "Sports",
+      "generated_at": "2026-06-04T06:02:38.953990+00:00",
+      "action": "SELL_YES",
+      "choice": "Norway",
+      "fair_probability": 0.008,
+      "market_probability": 0.026,
+      "edge_bps": 1800.0,
+      "confidence": "high",
+      "headline": "Norway Massively Overpriced at 2.6% to Win 2026 World Cup",
+      "summary": "Norway is priced at 2.6% on Kalshi to win the 2026 Men's World Cup, but sportsbook consensus puts their true odds at roughly 0.5-1% — a clear 3-5x overvaluation that represents a strong sell opportunity.",
+      "why": [
+        "Norway lacks World Cup tournament pedigree and hasn't qualified for the tournament since 1998",
+        "Major sportsbooks price Norway at just 0.5-1%, making Kalshi's 2.6% a stark outlier",
+        "Despite Haaland's star power, individual brilliance rarely overcomes squad depth gaps at World Cups"
+      ],
+      "watch_item": "Norway's World Cup qualifying results — a dominant campaign or favorable group draw could narrow the gap between market price and fair value"
     },
     {
       "id": "kalshi:KXTRUMPMEETING-27JAN01",
@@ -461,29 +484,6 @@
         "Fed funds futures are pricing a 51% chance of a hike by December, not cuts"
       ],
       "watch_item": "A sudden financial crisis, oil price collapse, or aggressive political pressure on the new Fed Chair could revive cut expectations"
-    },
-    {
-      "id": "kalshi:KXWNBAGAME-26MAY12NYPDX",
-      "cache_key": "dcef10e11ed41ca37dfd122b",
-      "title": "New York vs Portland",
-      "venue": "kalshi",
-      "market_url": "https://kalshi.com/markets/kxwnbagame/women-s-pro-basketball-game/kxwnbagame-26may12nypdx",
-      "category": "Sports",
-      "generated_at": "2026-05-13T03:53:33.232036+00:00",
-      "action": "BUY_YES",
-      "choice": "New York",
-      "fair_probability": 0.71,
-      "market_probability": 0.67,
-      "edge_bps": 400.0,
-      "confidence": "low",
-      "headline": "New York vs Portland: Talent Gap Suggests Value, But Timing Risk Warrants Caution",
-      "summary": "The New York Liberty appear modestly underpriced at 67% against expansion team Portland, but significant uncertainty around game timing and information asymmetry makes this a no-bet situation.",
-      "why": [
-        "New York is a championship-caliber team (2-0) facing a brand-new expansion team that lost its opener 98-83",
-        "Fair probability estimated around 71% for New York, creating only a thin ~4% edge over the market price",
-        "The game may have already been played, creating dangerous information asymmetry where others could know the result"
-      ],
-      "watch_item": "Confirmation of whether this game has already been played and its final result — if the market is still open post-game, stale prices could reflect a trap rather than an opportunity"
     },
     {
       "id": "kalshi:KXCABOUT-26MAY22",
